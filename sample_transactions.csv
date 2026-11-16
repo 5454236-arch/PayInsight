@@ -1,0 +1,1201 @@
+Transaction_ID,Date,Time,Payment_Method,Status,City,Category,Amount_INR,Month,Month_Num,Day_Name,Success_Flag,Failed_Flag,Amount_Band
+TXN100001,2026-01-28,21:00:26,Debit Card,Success,Kolhapur,Education,167.09,Jan,1,Wednesday,1,0,≤ ₹500
+TXN100002,2026-08-24,11:33:36,Net Banking,Success,Aurangabad,Healthcare,608.04,Aug,8,Monday,1,0,₹501–₹2K
+TXN100003,2026-07-18,23:44:09,Credit Card,Success,Mumbai,Bills,240.71,Jul,7,Saturday,1,0,≤ ₹500
+TXN100004,2026-05-14,18:33:37,Net Banking,Success,Nashik,Shopping,99.31,May,5,Thursday,1,0,≤ ₹500
+TXN100005,2026-05-12,15:23:55,Net Banking,Failed,Aurangabad,Education,315.97,May,5,Tuesday,0,1,≤ ₹500
+TXN100006,2026-09-19,21:49:08,UPI,Success,Pune,Travel,1243.92,Sep,9,Saturday,1,0,₹501–₹2K
+TXN100007,2026-01-27,12:22:19,Debit Card,Success,Nagpur,Healthcare,596.83,Jan,1,Tuesday,1,0,₹501–₹2K
+TXN100008,2026-07-31,17:42:41,UPI,Success,Aurangabad,Shopping,2242.03,Jul,7,Friday,1,0,₹2K–₹5K
+TXN100009,2026-03-03,06:27:37,UPI,Success,Aurangabad,Food,469.02,Mar,3,Tuesday,1,0,≤ ₹500
+TXN100010,2026-01-29,23:01:40,Wallet,Success,Bengaluru,Education,3231.28,Jan,1,Thursday,1,0,₹2K–₹5K
+TXN100011,2026-06-10,14:31:33,Credit Card,Success,Hyderabad,Travel,469.14,Jun,6,Wednesday,1,0,≤ ₹500
+TXN100012,2026-10-24,18:02:40,Wallet,Success,Delhi,Healthcare,411.21,Oct,10,Saturday,1,0,≤ ₹500
+TXN100013,2026-08-12,11:55:36,UPI,Success,Pune,Education,135.98,Aug,8,Wednesday,1,0,≤ ₹500
+TXN100014,2026-08-20,20:36:04,Debit Card,Failed,Aurangabad,Bills,1036.89,Aug,8,Thursday,0,1,₹501–₹2K
+TXN100015,2026-08-07,01:22:45,Debit Card,Success,Delhi,Shopping,263.27,Aug,8,Friday,1,0,≤ ₹500
+TXN100016,2026-08-27,02:29:26,UPI,Success,Kolhapur,Shopping,232.76,Aug,8,Thursday,1,0,≤ ₹500
+TXN100017,2026-06-06,12:37:03,UPI,Success,Aurangabad,Entertainment,1198.76,Jun,6,Saturday,1,0,₹501–₹2K
+TXN100018,2026-02-08,17:15:24,Debit Card,Success,Aurangabad,Shopping,1079.75,Feb,2,Sunday,1,0,₹501–₹2K
+TXN100019,2026-09-13,19:17:26,UPI,Success,Aurangabad,Education,1056.0,Sep,9,Sunday,1,0,₹501–₹2K
+TXN100020,2026-05-17,10:25:05,Wallet,Pending,Kolhapur,Entertainment,296.53,May,5,Sunday,0,0,≤ ₹500
+TXN100021,2026-06-02,15:15:59,UPI,Success,Mumbai,Other,386.32,Jun,6,Tuesday,1,0,≤ ₹500
+TXN100022,2026-04-23,13:45:13,UPI,Success,Kolhapur,Bills,383.42,Apr,4,Thursday,1,0,≤ ₹500
+TXN100023,2026-02-25,23:06:19,Net Banking,Success,Nashik,Food,784.57,Feb,2,Wednesday,1,0,₹501–₹2K
+TXN100024,2026-10-09,15:49:26,UPI,Success,Thane,Entertainment,1511.0,Oct,10,Friday,1,0,₹501–₹2K
+TXN100025,2026-08-26,10:20:49,Wallet,Success,Bengaluru,Healthcare,551.66,Aug,8,Wednesday,1,0,₹501–₹2K
+TXN100026,2026-07-15,23:33:44,Credit Card,Success,Kolhapur,Bills,2161.72,Jul,7,Wednesday,1,0,₹2K–₹5K
+TXN100027,2026-05-03,02:09:46,UPI,Failed,Nagpur,Education,864.9,May,5,Sunday,0,1,₹501–₹2K
+TXN100028,2026-09-08,23:23:14,Credit Card,Success,Hyderabad,Shopping,330.44,Sep,9,Tuesday,1,0,≤ ₹500
+TXN100029,2026-06-15,03:45:50,Debit Card,Success,Thane,Healthcare,815.99,Jun,6,Monday,1,0,₹501–₹2K
+TXN100030,2026-05-15,06:16:49,Credit Card,Success,Aurangabad,Healthcare,1719.95,May,5,Friday,1,0,₹501–₹2K
+TXN100031,2026-05-17,19:07:27,Net Banking,Success,Pune,Bills,2205.14,May,5,Sunday,1,0,₹2K–₹5K
+TXN100032,2026-03-11,17:31:32,Credit Card,Pending,Pune,Travel,1106.39,Mar,3,Wednesday,0,0,₹501–₹2K
+TXN100033,2026-01-29,23:09:02,Debit Card,Success,Nashik,Bills,412.33,Jan,1,Thursday,1,0,≤ ₹500
+TXN100034,2026-06-18,17:18:45,UPI,Success,Nashik,Food,335.56,Jun,6,Thursday,1,0,≤ ₹500
+TXN100035,2026-09-27,15:27:57,Credit Card,Success,Delhi,Shopping,658.3,Sep,9,Sunday,1,0,₹501–₹2K
+TXN100036,2026-01-20,08:33:28,Wallet,Success,Kolhapur,Other,1673.84,Jan,1,Tuesday,1,0,₹501–₹2K
+TXN100037,2026-09-18,00:38:32,Debit Card,Success,Hyderabad,Travel,583.3,Sep,9,Friday,1,0,₹501–₹2K
+TXN100038,2026-09-09,02:40:29,Credit Card,Success,Kolhapur,Shopping,593.69,Sep,9,Wednesday,1,0,₹501–₹2K
+TXN100039,2026-03-26,07:50:04,UPI,Success,Hyderabad,Food,421.44,Mar,3,Thursday,1,0,≤ ₹500
+TXN100040,2026-07-12,00:03:37,Credit Card,Success,Kolhapur,Bills,305.3,Jul,7,Sunday,1,0,≤ ₹500
+TXN100041,2026-02-20,12:21:43,Wallet,Success,Nagpur,Other,351.49,Feb,2,Friday,1,0,≤ ₹500
+TXN100042,2026-08-19,18:00:55,UPI,Success,Delhi,Travel,452.65,Aug,8,Wednesday,1,0,≤ ₹500
+TXN100043,2026-08-01,23:00:55,UPI,Success,Aurangabad,Other,1737.82,Aug,8,Saturday,1,0,₹501–₹2K
+TXN100044,2026-04-18,11:12:29,Debit Card,Success,Nashik,Travel,329.06,Apr,4,Saturday,1,0,≤ ₹500
+TXN100045,2026-01-21,21:35:57,Debit Card,Success,Aurangabad,Entertainment,421.88,Jan,1,Wednesday,1,0,≤ ₹500
+TXN100046,2026-10-23,23:53:31,Debit Card,Success,Thane,Entertainment,193.34,Oct,10,Friday,1,0,≤ ₹500
+TXN100047,2026-05-16,20:46:38,UPI,Success,Nagpur,Food,741.84,May,5,Saturday,1,0,₹501–₹2K
+TXN100048,2026-09-29,11:38:36,UPI,Success,Delhi,Food,1289.07,Sep,9,Tuesday,1,0,₹501–₹2K
+TXN100049,2026-07-26,07:46:59,Debit Card,Success,Hyderabad,Other,1604.91,Jul,7,Sunday,1,0,₹501–₹2K
+TXN100050,2026-08-25,23:10:44,Debit Card,Success,Aurangabad,Other,479.56,Aug,8,Tuesday,1,0,≤ ₹500
+TXN100051,2026-08-20,05:50:07,Credit Card,Success,Nashik,Shopping,657.34,Aug,8,Thursday,1,0,₹501–₹2K
+TXN100052,2026-03-01,09:53:04,Credit Card,Success,Aurangabad,Healthcare,354.07,Mar,3,Sunday,1,0,≤ ₹500
+TXN100053,2026-04-21,01:05:24,Credit Card,Success,Bengaluru,Other,631.95,Apr,4,Tuesday,1,0,₹501–₹2K
+TXN100054,2026-05-22,19:28:30,Net Banking,Success,Mumbai,Other,526.83,May,5,Friday,1,0,₹501–₹2K
+TXN100055,2026-06-01,15:49:40,Debit Card,Success,Hyderabad,Bills,423.91,Jun,6,Monday,1,0,≤ ₹500
+TXN100056,2026-01-14,02:28:28,Debit Card,Success,Aurangabad,Entertainment,453.54,Jan,1,Wednesday,1,0,≤ ₹500
+TXN100057,2026-06-16,05:50:30,Debit Card,Success,Bengaluru,Healthcare,592.37,Jun,6,Tuesday,1,0,₹501–₹2K
+TXN100058,2026-02-16,13:56:55,UPI,Success,Delhi,Other,314.18,Feb,2,Monday,1,0,≤ ₹500
+TXN100059,2026-08-14,12:28:20,UPI,Failed,Delhi,Shopping,328.28,Aug,8,Friday,0,1,≤ ₹500
+TXN100060,2026-07-27,19:03:29,Debit Card,Success,Hyderabad,Education,1722.03,Jul,7,Monday,1,0,₹501–₹2K
+TXN100061,2026-10-08,06:20:33,Net Banking,Success,Mumbai,Food,4039.86,Oct,10,Thursday,1,0,₹2K–₹5K
+TXN100062,2026-08-15,22:12:28,Credit Card,Failed,Kolhapur,Bills,144.94,Aug,8,Saturday,0,1,≤ ₹500
+TXN100063,2026-04-22,10:28:58,UPI,Failed,Pune,Food,138.3,Apr,4,Wednesday,0,1,≤ ₹500
+TXN100064,2026-10-22,19:35:57,Debit Card,Success,Nashik,Travel,178.83,Oct,10,Thursday,1,0,≤ ₹500
+TXN100065,2026-05-05,05:27:30,UPI,Success,Pune,Entertainment,369.52,May,5,Tuesday,1,0,≤ ₹500
+TXN100066,2026-04-10,00:11:27,Credit Card,Success,Thane,Healthcare,863.86,Apr,4,Friday,1,0,₹501–₹2K
+TXN100067,2026-10-03,01:18:35,Net Banking,Success,Thane,Bills,666.85,Oct,10,Saturday,1,0,₹501–₹2K
+TXN100068,2026-04-23,08:40:10,Debit Card,Success,Delhi,Travel,466.95,Apr,4,Thursday,1,0,≤ ₹500
+TXN100069,2026-01-24,22:01:25,Debit Card,Success,Mumbai,Bills,632.45,Jan,1,Saturday,1,0,₹501–₹2K
+TXN100070,2026-05-23,01:12:13,UPI,Success,Nagpur,Healthcare,224.02,May,5,Saturday,1,0,≤ ₹500
+TXN100071,2026-08-30,08:53:08,UPI,Success,Thane,Bills,327.83,Aug,8,Sunday,1,0,≤ ₹500
+TXN100072,2026-02-27,02:05:05,Net Banking,Success,Bengaluru,Food,396.6,Feb,2,Friday,1,0,≤ ₹500
+TXN100073,2026-05-21,22:24:35,Credit Card,Success,Bengaluru,Education,104.94,May,5,Thursday,1,0,≤ ₹500
+TXN100074,2026-02-09,16:12:00,Debit Card,Success,Pune,Entertainment,150.34,Feb,2,Monday,1,0,≤ ₹500
+TXN100075,2026-07-28,18:06:38,UPI,Success,Aurangabad,Travel,155.5,Jul,7,Tuesday,1,0,≤ ₹500
+TXN100076,2026-05-25,17:25:25,UPI,Failed,Pune,Shopping,772.39,May,5,Monday,0,1,₹501–₹2K
+TXN100077,2026-04-11,15:31:21,UPI,Success,Bengaluru,Food,496.98,Apr,4,Saturday,1,0,≤ ₹500
+TXN100078,2026-03-10,18:10:46,UPI,Success,Mumbai,Other,678.17,Mar,3,Tuesday,1,0,₹501–₹2K
+TXN100079,2026-06-21,00:04:32,UPI,Success,Bengaluru,Entertainment,84.46,Jun,6,Sunday,1,0,≤ ₹500
+TXN100080,2026-07-23,20:08:44,Wallet,Success,Mumbai,Shopping,114.32,Jul,7,Thursday,1,0,≤ ₹500
+TXN100081,2026-10-13,17:39:42,Debit Card,Success,Pune,Food,708.91,Oct,10,Tuesday,1,0,₹501–₹2K
+TXN100082,2026-05-13,17:51:01,UPI,Success,Bengaluru,Shopping,50.0,May,5,Wednesday,1,0,≤ ₹500
+TXN100083,2026-02-18,09:10:12,UPI,Success,Aurangabad,Travel,1142.46,Feb,2,Wednesday,1,0,₹501–₹2K
+TXN100084,2026-09-11,19:19:34,UPI,Success,Aurangabad,Entertainment,85.64,Sep,9,Friday,1,0,≤ ₹500
+TXN100085,2026-07-11,09:20:58,Net Banking,Success,Thane,Shopping,826.21,Jul,7,Saturday,1,0,₹501–₹2K
+TXN100086,2026-08-01,01:21:09,UPI,Success,Nashik,Entertainment,189.56,Aug,8,Saturday,1,0,≤ ₹500
+TXN100087,2026-01-30,21:14:06,Net Banking,Success,Thane,Food,983.94,Jan,1,Friday,1,0,₹501–₹2K
+TXN100088,2026-04-05,05:03:56,Net Banking,Failed,Aurangabad,Healthcare,6166.81,Apr,4,Sunday,0,1,₹5K–₹10K
+TXN100089,2026-08-22,02:31:58,UPI,Success,Nashik,Bills,58.43,Aug,8,Saturday,1,0,≤ ₹500
+TXN100090,2026-09-11,14:21:10,Debit Card,Success,Nagpur,Other,728.56,Sep,9,Friday,1,0,₹501–₹2K
+TXN100091,2026-05-13,05:20:24,Wallet,Success,Pune,Travel,86.75,May,5,Wednesday,1,0,≤ ₹500
+TXN100092,2026-09-02,20:15:37,UPI,Success,Nagpur,Bills,579.84,Sep,9,Wednesday,1,0,₹501–₹2K
+TXN100093,2026-09-13,10:55:11,UPI,Success,Kolhapur,Shopping,338.41,Sep,9,Sunday,1,0,≤ ₹500
+TXN100094,2026-04-28,00:36:19,Wallet,Success,Mumbai,Entertainment,450.48,Apr,4,Tuesday,1,0,≤ ₹500
+TXN100095,2026-10-01,22:25:23,Net Banking,Success,Mumbai,Travel,185.87,Oct,10,Thursday,1,0,≤ ₹500
+TXN100096,2026-03-29,12:12:38,Debit Card,Success,Thane,Bills,783.26,Mar,3,Sunday,1,0,₹501–₹2K
+TXN100097,2026-03-14,06:48:18,Debit Card,Success,Aurangabad,Healthcare,117.79,Mar,3,Saturday,1,0,≤ ₹500
+TXN100098,2026-07-27,16:53:24,UPI,Success,Mumbai,Education,1159.09,Jul,7,Monday,1,0,₹501–₹2K
+TXN100099,2026-07-13,12:01:17,Net Banking,Success,Delhi,Healthcare,284.9,Jul,7,Monday,1,0,≤ ₹500
+TXN100100,2026-02-12,00:55:45,Debit Card,Success,Delhi,Travel,122.45,Feb,2,Thursday,1,0,≤ ₹500
+TXN100101,2026-09-11,18:41:09,UPI,Failed,Pune,Food,1565.09,Sep,9,Friday,0,1,₹501–₹2K
+TXN100102,2026-03-02,09:05:13,Credit Card,Success,Nashik,Food,380.98,Mar,3,Monday,1,0,≤ ₹500
+TXN100103,2026-09-02,16:45:14,Wallet,Success,Nagpur,Food,2041.6,Sep,9,Wednesday,1,0,₹2K–₹5K
+TXN100104,2026-01-03,21:06:54,Net Banking,Success,Delhi,Education,1139.28,Jan,1,Saturday,1,0,₹501–₹2K
+TXN100105,2026-08-31,14:03:56,UPI,Success,Pune,Education,204.71,Aug,8,Monday,1,0,≤ ₹500
+TXN100106,2026-08-28,16:06:30,UPI,Success,Bengaluru,Healthcare,375.31,Aug,8,Friday,1,0,≤ ₹500
+TXN100107,2026-08-26,06:27:09,Wallet,Success,Nagpur,Other,447.14,Aug,8,Wednesday,1,0,≤ ₹500
+TXN100108,2026-07-22,05:37:45,Wallet,Success,Mumbai,Shopping,1476.39,Jul,7,Wednesday,1,0,₹501–₹2K
+TXN100109,2026-05-24,09:24:29,Debit Card,Success,Bengaluru,Other,585.16,May,5,Sunday,1,0,₹501–₹2K
+TXN100110,2026-08-03,20:07:50,Credit Card,Success,Pune,Other,468.65,Aug,8,Monday,1,0,≤ ₹500
+TXN100111,2026-03-26,12:11:21,UPI,Success,Mumbai,Education,340.39,Mar,3,Thursday,1,0,≤ ₹500
+TXN100112,2026-08-26,08:51:59,UPI,Success,Hyderabad,Education,386.46,Aug,8,Wednesday,1,0,≤ ₹500
+TXN100113,2026-06-18,18:57:48,UPI,Pending,Kolhapur,Shopping,1222.81,Jun,6,Thursday,0,0,₹501–₹2K
+TXN100114,2026-05-20,20:45:13,UPI,Success,Aurangabad,Shopping,404.7,May,5,Wednesday,1,0,≤ ₹500
+TXN100115,2026-06-03,21:06:43,UPI,Success,Thane,Food,288.37,Jun,6,Wednesday,1,0,≤ ₹500
+TXN100116,2026-06-22,07:49:17,Net Banking,Success,Thane,Healthcare,249.68,Jun,6,Monday,1,0,≤ ₹500
+TXN100117,2026-01-12,17:41:20,UPI,Success,Thane,Travel,251.97,Jan,1,Monday,1,0,≤ ₹500
+TXN100118,2026-02-12,14:31:15,UPI,Success,Pune,Shopping,122.51,Feb,2,Thursday,1,0,≤ ₹500
+TXN100119,2026-03-16,10:08:40,Debit Card,Failed,Kolhapur,Shopping,213.19,Mar,3,Monday,0,1,≤ ₹500
+TXN100120,2026-02-04,09:59:15,UPI,Success,Nashik,Food,1441.81,Feb,2,Wednesday,1,0,₹501–₹2K
+TXN100121,2026-05-14,02:26:38,UPI,Success,Bengaluru,Healthcare,338.45,May,5,Thursday,1,0,≤ ₹500
+TXN100122,2026-07-23,06:02:34,Debit Card,Success,Kolhapur,Healthcare,734.18,Jul,7,Thursday,1,0,₹501–₹2K
+TXN100123,2026-07-18,13:12:45,UPI,Success,Mumbai,Healthcare,50.0,Jul,7,Saturday,1,0,≤ ₹500
+TXN100124,2026-05-24,21:24:59,Debit Card,Success,Bengaluru,Food,653.97,May,5,Sunday,1,0,₹501–₹2K
+TXN100125,2026-09-17,20:03:00,Wallet,Success,Nashik,Food,351.73,Sep,9,Thursday,1,0,≤ ₹500
+TXN100126,2026-06-21,04:19:59,UPI,Success,Nashik,Food,267.94,Jun,6,Sunday,1,0,≤ ₹500
+TXN100127,2026-01-25,16:28:06,Wallet,Pending,Hyderabad,Entertainment,470.51,Jan,1,Sunday,0,0,≤ ₹500
+TXN100128,2026-08-21,02:56:31,Wallet,Success,Delhi,Healthcare,264.69,Aug,8,Friday,1,0,≤ ₹500
+TXN100129,2026-06-24,16:05:20,Net Banking,Success,Bengaluru,Bills,66.33,Jun,6,Wednesday,1,0,≤ ₹500
+TXN100130,2026-07-12,08:34:38,Debit Card,Success,Thane,Food,883.52,Jul,7,Sunday,1,0,₹501–₹2K
+TXN100131,2026-06-21,10:54:43,Debit Card,Failed,Hyderabad,Bills,495.99,Jun,6,Sunday,0,1,≤ ₹500
+TXN100132,2026-06-18,17:48:51,Debit Card,Failed,Mumbai,Entertainment,308.94,Jun,6,Thursday,0,1,≤ ₹500
+TXN100133,2026-01-28,10:55:24,Credit Card,Success,Kolhapur,Shopping,177.46,Jan,1,Wednesday,1,0,≤ ₹500
+TXN100134,2026-06-19,19:10:55,UPI,Success,Nashik,Entertainment,115.66,Jun,6,Friday,1,0,≤ ₹500
+TXN100135,2026-08-30,12:48:19,Wallet,Success,Nagpur,Travel,488.0,Aug,8,Sunday,1,0,≤ ₹500
+TXN100136,2026-04-03,23:58:12,Debit Card,Pending,Nashik,Shopping,1589.9,Apr,4,Friday,0,0,₹501–₹2K
+TXN100137,2026-07-03,15:19:22,Net Banking,Success,Nashik,Other,479.47,Jul,7,Friday,1,0,≤ ₹500
+TXN100138,2026-01-10,07:29:31,UPI,Success,Aurangabad,Education,124.54,Jan,1,Saturday,1,0,≤ ₹500
+TXN100139,2026-04-16,18:31:40,UPI,Success,Hyderabad,Healthcare,488.5,Apr,4,Thursday,1,0,≤ ₹500
+TXN100140,2026-05-13,09:29:49,Debit Card,Success,Thane,Food,385.55,May,5,Wednesday,1,0,≤ ₹500
+TXN100141,2026-10-26,12:17:13,Debit Card,Success,Nagpur,Bills,840.87,Oct,10,Monday,1,0,₹501–₹2K
+TXN100142,2026-03-07,03:58:18,UPI,Success,Aurangabad,Healthcare,675.68,Mar,3,Saturday,1,0,₹501–₹2K
+TXN100143,2026-03-26,02:57:56,UPI,Success,Kolhapur,Healthcare,50.0,Mar,3,Thursday,1,0,≤ ₹500
+TXN100144,2026-05-05,13:22:26,UPI,Success,Nashik,Food,641.27,May,5,Tuesday,1,0,₹501–₹2K
+TXN100145,2026-10-29,04:48:14,Debit Card,Success,Kolhapur,Education,171.92,Oct,10,Thursday,1,0,≤ ₹500
+TXN100146,2026-09-17,23:23:59,UPI,Success,Thane,Other,120.49,Sep,9,Thursday,1,0,≤ ₹500
+TXN100147,2026-01-11,20:47:26,Wallet,Success,Nashik,Entertainment,343.71,Jan,1,Sunday,1,0,≤ ₹500
+TXN100148,2026-03-13,16:35:59,UPI,Failed,Kolhapur,Shopping,572.11,Mar,3,Friday,0,1,₹501–₹2K
+TXN100149,2026-09-07,17:28:55,UPI,Success,Delhi,Other,100.02,Sep,9,Monday,1,0,≤ ₹500
+TXN100150,2026-01-18,14:07:54,UPI,Success,Kolhapur,Healthcare,734.28,Jan,1,Sunday,1,0,₹501–₹2K
+TXN100151,2026-09-18,01:39:34,Debit Card,Success,Nashik,Food,771.89,Sep,9,Friday,1,0,₹501–₹2K
+TXN100152,2026-03-27,09:19:47,Debit Card,Success,Kolhapur,Shopping,419.86,Mar,3,Friday,1,0,≤ ₹500
+TXN100153,2026-10-06,11:13:57,Credit Card,Success,Delhi,Other,192.97,Oct,10,Tuesday,1,0,≤ ₹500
+TXN100154,2026-03-31,21:11:16,Wallet,Success,Nashik,Shopping,175.48,Mar,3,Tuesday,1,0,≤ ₹500
+TXN100155,2026-05-13,05:58:02,UPI,Success,Kolhapur,Food,964.92,May,5,Wednesday,1,0,₹501–₹2K
+TXN100156,2026-07-21,11:06:19,Credit Card,Success,Thane,Travel,111.66,Jul,7,Tuesday,1,0,≤ ₹500
+TXN100157,2026-02-08,08:47:38,UPI,Success,Nagpur,Education,997.05,Feb,2,Sunday,1,0,₹501–₹2K
+TXN100158,2026-06-19,03:51:32,UPI,Success,Nagpur,Education,350.58,Jun,6,Friday,1,0,≤ ₹500
+TXN100159,2026-06-03,02:01:04,UPI,Failed,Bengaluru,Healthcare,371.87,Jun,6,Wednesday,0,1,≤ ₹500
+TXN100160,2026-08-27,08:35:33,UPI,Success,Nagpur,Other,94.46,Aug,8,Thursday,1,0,≤ ₹500
+TXN100161,2026-10-30,01:34:10,Debit Card,Pending,Kolhapur,Entertainment,356.13,Oct,10,Friday,0,0,≤ ₹500
+TXN100162,2026-07-21,01:21:30,Credit Card,Success,Mumbai,Food,679.63,Jul,7,Tuesday,1,0,₹501–₹2K
+TXN100163,2026-05-05,08:40:34,Credit Card,Success,Hyderabad,Food,129.55,May,5,Tuesday,1,0,≤ ₹500
+TXN100164,2026-05-04,04:24:38,Debit Card,Success,Kolhapur,Food,616.37,May,5,Monday,1,0,₹501–₹2K
+TXN100165,2026-05-08,13:26:24,Debit Card,Success,Delhi,Travel,435.14,May,5,Friday,1,0,≤ ₹500
+TXN100166,2026-09-05,00:25:24,UPI,Success,Thane,Bills,233.41,Sep,9,Saturday,1,0,≤ ₹500
+TXN100167,2026-04-08,07:48:40,UPI,Success,Nagpur,Other,834.2,Apr,4,Wednesday,1,0,₹501–₹2K
+TXN100168,2026-02-20,10:37:44,UPI,Success,Nagpur,Bills,62.06,Feb,2,Friday,1,0,≤ ₹500
+TXN100169,2026-04-12,23:22:48,Credit Card,Success,Delhi,Food,541.68,Apr,4,Sunday,1,0,₹501–₹2K
+TXN100170,2026-01-07,15:55:20,Wallet,Success,Bengaluru,Other,1598.02,Jan,1,Wednesday,1,0,₹501–₹2K
+TXN100171,2026-02-02,21:48:25,UPI,Failed,Mumbai,Bills,1371.9,Feb,2,Monday,0,1,₹501–₹2K
+TXN100172,2026-01-28,08:55:19,Debit Card,Pending,Bengaluru,Other,561.91,Jan,1,Wednesday,0,0,₹501–₹2K
+TXN100173,2026-08-23,10:43:31,Credit Card,Success,Bengaluru,Entertainment,312.18,Aug,8,Sunday,1,0,≤ ₹500
+TXN100174,2026-08-08,10:23:07,Net Banking,Success,Mumbai,Other,235.0,Aug,8,Saturday,1,0,≤ ₹500
+TXN100175,2026-07-31,21:46:25,Debit Card,Success,Mumbai,Entertainment,311.85,Jul,7,Friday,1,0,≤ ₹500
+TXN100176,2026-05-21,23:19:11,Debit Card,Success,Thane,Shopping,640.49,May,5,Thursday,1,0,₹501–₹2K
+TXN100177,2026-08-06,23:16:31,Credit Card,Success,Bengaluru,Healthcare,203.13,Aug,8,Thursday,1,0,≤ ₹500
+TXN100178,2026-02-19,18:27:51,Net Banking,Success,Nagpur,Travel,768.02,Feb,2,Thursday,1,0,₹501–₹2K
+TXN100179,2026-10-01,12:58:59,UPI,Success,Thane,Healthcare,2473.0,Oct,10,Thursday,1,0,₹2K–₹5K
+TXN100180,2026-06-02,12:34:26,Wallet,Pending,Hyderabad,Healthcare,382.76,Jun,6,Tuesday,0,0,≤ ₹500
+TXN100181,2026-10-13,23:23:03,UPI,Success,Nagpur,Education,128.67,Oct,10,Tuesday,1,0,≤ ₹500
+TXN100182,2026-02-16,06:27:13,Net Banking,Success,Nashik,Bills,128.63,Feb,2,Monday,1,0,≤ ₹500
+TXN100183,2026-06-01,08:17:06,UPI,Failed,Hyderabad,Other,780.61,Jun,6,Monday,0,1,₹501–₹2K
+TXN100184,2026-07-31,21:39:45,UPI,Success,Nashik,Healthcare,383.45,Jul,7,Friday,1,0,≤ ₹500
+TXN100185,2026-05-31,09:21:59,UPI,Success,Aurangabad,Other,850.06,May,5,Sunday,1,0,₹501–₹2K
+TXN100186,2026-05-16,05:33:33,UPI,Failed,Aurangabad,Shopping,256.32,May,5,Saturday,0,1,≤ ₹500
+TXN100187,2026-02-20,13:22:10,UPI,Pending,Kolhapur,Entertainment,817.32,Feb,2,Friday,0,0,₹501–₹2K
+TXN100188,2026-04-26,07:19:01,UPI,Success,Nashik,Bills,352.64,Apr,4,Sunday,1,0,≤ ₹500
+TXN100189,2026-03-14,21:58:58,UPI,Success,Thane,Travel,216.45,Mar,3,Saturday,1,0,≤ ₹500
+TXN100190,2026-04-02,21:20:18,UPI,Success,Thane,Entertainment,286.91,Apr,4,Thursday,1,0,≤ ₹500
+TXN100191,2026-07-27,07:04:06,Net Banking,Success,Nashik,Bills,145.84,Jul,7,Monday,1,0,≤ ₹500
+TXN100192,2026-07-11,12:22:10,Net Banking,Success,Aurangabad,Bills,2188.46,Jul,7,Saturday,1,0,₹2K–₹5K
+TXN100193,2026-07-04,23:31:15,Credit Card,Success,Pune,Other,371.7,Jul,7,Saturday,1,0,≤ ₹500
+TXN100194,2026-04-20,17:05:39,UPI,Success,Nashik,Other,697.73,Apr,4,Monday,1,0,₹501–₹2K
+TXN100195,2026-10-19,05:18:53,UPI,Success,Hyderabad,Bills,255.61,Oct,10,Monday,1,0,≤ ₹500
+TXN100196,2026-01-27,14:09:16,Wallet,Success,Kolhapur,Bills,164.99,Jan,1,Tuesday,1,0,≤ ₹500
+TXN100197,2026-04-15,14:30:41,UPI,Success,Thane,Shopping,330.7,Apr,4,Wednesday,1,0,≤ ₹500
+TXN100198,2026-02-05,15:43:03,UPI,Success,Bengaluru,Food,1028.66,Feb,2,Thursday,1,0,₹501–₹2K
+TXN100199,2026-04-14,00:58:00,Wallet,Success,Delhi,Education,259.14,Apr,4,Tuesday,1,0,≤ ₹500
+TXN100200,2026-10-20,07:23:03,Wallet,Success,Delhi,Bills,192.49,Oct,10,Tuesday,1,0,≤ ₹500
+TXN100201,2026-04-22,20:51:55,UPI,Success,Delhi,Entertainment,460.42,Apr,4,Wednesday,1,0,≤ ₹500
+TXN100202,2026-10-04,05:12:34,Credit Card,Success,Aurangabad,Shopping,616.57,Oct,10,Sunday,1,0,₹501–₹2K
+TXN100203,2026-05-31,07:46:48,UPI,Success,Thane,Healthcare,1630.14,May,5,Sunday,1,0,₹501–₹2K
+TXN100204,2026-08-01,07:33:01,Credit Card,Success,Nashik,Education,544.95,Aug,8,Saturday,1,0,₹501–₹2K
+TXN100205,2026-05-20,04:45:01,UPI,Success,Bengaluru,Education,697.42,May,5,Wednesday,1,0,₹501–₹2K
+TXN100206,2026-03-22,03:45:50,UPI,Success,Mumbai,Food,743.51,Mar,3,Sunday,1,0,₹501–₹2K
+TXN100207,2026-08-21,08:31:06,Debit Card,Success,Bengaluru,Travel,151.4,Aug,8,Friday,1,0,≤ ₹500
+TXN100208,2026-10-22,20:15:09,UPI,Success,Bengaluru,Healthcare,177.89,Oct,10,Thursday,1,0,≤ ₹500
+TXN100209,2026-03-22,00:31:31,Credit Card,Failed,Mumbai,Bills,160.56,Mar,3,Sunday,0,1,≤ ₹500
+TXN100210,2026-08-25,06:49:36,UPI,Success,Delhi,Entertainment,130.02,Aug,8,Tuesday,1,0,≤ ₹500
+TXN100211,2026-03-21,01:58:13,Net Banking,Success,Hyderabad,Education,793.25,Mar,3,Saturday,1,0,₹501–₹2K
+TXN100212,2026-08-06,13:55:26,Net Banking,Success,Kolhapur,Bills,516.22,Aug,8,Thursday,1,0,₹501–₹2K
+TXN100213,2026-08-28,06:10:40,Debit Card,Success,Nagpur,Food,431.63,Aug,8,Friday,1,0,≤ ₹500
+TXN100214,2026-05-17,19:35:26,Net Banking,Success,Bengaluru,Shopping,50.0,May,5,Sunday,1,0,≤ ₹500
+TXN100215,2026-08-13,14:06:22,UPI,Success,Kolhapur,Travel,2314.98,Aug,8,Thursday,1,0,₹2K–₹5K
+TXN100216,2026-03-24,18:40:04,Debit Card,Success,Mumbai,Travel,188.65,Mar,3,Tuesday,1,0,≤ ₹500
+TXN100217,2026-01-25,15:59:27,UPI,Success,Nashik,Entertainment,2307.78,Jan,1,Sunday,1,0,₹2K–₹5K
+TXN100218,2026-01-30,10:03:48,Net Banking,Success,Thane,Entertainment,117.7,Jan,1,Friday,1,0,≤ ₹500
+TXN100219,2026-05-16,20:39:37,Net Banking,Success,Aurangabad,Shopping,202.24,May,5,Saturday,1,0,≤ ₹500
+TXN100220,2026-10-02,11:56:53,Wallet,Success,Nashik,Education,62.03,Oct,10,Friday,1,0,≤ ₹500
+TXN100221,2026-02-08,22:50:07,Net Banking,Success,Delhi,Travel,548.84,Feb,2,Sunday,1,0,₹501–₹2K
+TXN100222,2026-05-19,23:23:00,Wallet,Success,Mumbai,Food,158.21,May,5,Tuesday,1,0,≤ ₹500
+TXN100223,2026-08-03,14:06:32,UPI,Success,Nashik,Healthcare,162.06,Aug,8,Monday,1,0,≤ ₹500
+TXN100224,2026-03-03,16:55:10,Wallet,Success,Aurangabad,Education,125.63,Mar,3,Tuesday,1,0,≤ ₹500
+TXN100225,2026-08-08,06:55:35,Debit Card,Success,Pune,Food,781.14,Aug,8,Saturday,1,0,₹501–₹2K
+TXN100226,2026-04-04,19:34:54,UPI,Success,Nagpur,Travel,738.59,Apr,4,Saturday,1,0,₹501–₹2K
+TXN100227,2026-09-03,16:58:20,Debit Card,Success,Hyderabad,Healthcare,1882.26,Sep,9,Thursday,1,0,₹501–₹2K
+TXN100228,2026-06-26,21:00:32,UPI,Success,Hyderabad,Bills,225.24,Jun,6,Friday,1,0,≤ ₹500
+TXN100229,2026-06-16,06:36:40,UPI,Failed,Bengaluru,Bills,485.9,Jun,6,Tuesday,0,1,≤ ₹500
+TXN100230,2026-02-23,18:02:09,UPI,Success,Nagpur,Food,134.84,Feb,2,Monday,1,0,≤ ₹500
+TXN100231,2026-05-21,11:56:53,UPI,Success,Pune,Shopping,303.45,May,5,Thursday,1,0,≤ ₹500
+TXN100232,2026-09-18,04:40:12,Debit Card,Success,Bengaluru,Other,259.56,Sep,9,Friday,1,0,≤ ₹500
+TXN100233,2026-01-06,04:54:48,Net Banking,Success,Nagpur,Education,598.71,Jan,1,Tuesday,1,0,₹501–₹2K
+TXN100234,2026-08-19,13:33:39,Debit Card,Success,Delhi,Shopping,957.64,Aug,8,Wednesday,1,0,₹501–₹2K
+TXN100235,2026-05-30,07:04:08,Debit Card,Success,Mumbai,Travel,936.74,May,5,Saturday,1,0,₹501–₹2K
+TXN100236,2026-08-07,02:01:43,UPI,Success,Thane,Shopping,197.08,Aug,8,Friday,1,0,≤ ₹500
+TXN100237,2026-07-21,10:20:11,UPI,Success,Kolhapur,Travel,942.65,Jul,7,Tuesday,1,0,₹501–₹2K
+TXN100238,2026-05-12,15:44:35,UPI,Success,Hyderabad,Shopping,388.59,May,5,Tuesday,1,0,≤ ₹500
+TXN100239,2026-04-04,07:09:57,Net Banking,Success,Mumbai,Education,306.16,Apr,4,Saturday,1,0,≤ ₹500
+TXN100240,2026-07-10,22:51:57,UPI,Success,Aurangabad,Education,220.91,Jul,7,Friday,1,0,≤ ₹500
+TXN100241,2026-02-12,18:14:52,Credit Card,Success,Hyderabad,Healthcare,250.65,Feb,2,Thursday,1,0,≤ ₹500
+TXN100242,2026-06-27,12:29:29,Credit Card,Success,Nagpur,Travel,1773.95,Jun,6,Saturday,1,0,₹501–₹2K
+TXN100243,2026-01-29,22:12:33,Debit Card,Success,Thane,Bills,523.9,Jan,1,Thursday,1,0,₹501–₹2K
+TXN100244,2026-07-17,10:27:18,Net Banking,Success,Mumbai,Shopping,467.98,Jul,7,Friday,1,0,≤ ₹500
+TXN100245,2026-07-11,03:27:55,UPI,Failed,Delhi,Shopping,322.82,Jul,7,Saturday,0,1,≤ ₹500
+TXN100246,2026-01-26,00:00:28,Net Banking,Success,Nashik,Travel,3226.27,Jan,1,Monday,1,0,₹2K–₹5K
+TXN100247,2026-08-19,22:34:46,Credit Card,Success,Kolhapur,Travel,1223.24,Aug,8,Wednesday,1,0,₹501–₹2K
+TXN100248,2026-05-07,23:47:21,Net Banking,Success,Bengaluru,Healthcare,218.57,May,5,Thursday,1,0,≤ ₹500
+TXN100249,2026-08-28,17:56:44,Credit Card,Success,Thane,Food,319.71,Aug,8,Friday,1,0,≤ ₹500
+TXN100250,2026-01-13,02:19:13,Net Banking,Success,Aurangabad,Bills,336.26,Jan,1,Tuesday,1,0,≤ ₹500
+TXN100251,2026-02-24,07:52:44,Wallet,Success,Mumbai,Entertainment,456.68,Feb,2,Tuesday,1,0,≤ ₹500
+TXN100252,2026-05-31,00:52:02,UPI,Success,Nagpur,Other,222.28,May,5,Sunday,1,0,≤ ₹500
+TXN100253,2026-02-27,01:59:06,Net Banking,Success,Bengaluru,Other,585.81,Feb,2,Friday,1,0,₹501–₹2K
+TXN100254,2026-04-11,05:22:21,Credit Card,Success,Nashik,Bills,1386.14,Apr,4,Saturday,1,0,₹501–₹2K
+TXN100255,2026-07-20,13:51:28,UPI,Success,Thane,Shopping,132.08,Jul,7,Monday,1,0,≤ ₹500
+TXN100256,2026-02-13,01:33:42,Wallet,Success,Aurangabad,Shopping,154.64,Feb,2,Friday,1,0,≤ ₹500
+TXN100257,2026-07-26,23:03:21,UPI,Success,Nagpur,Shopping,267.55,Jul,7,Sunday,1,0,≤ ₹500
+TXN100258,2026-02-01,10:16:01,Debit Card,Success,Delhi,Other,278.31,Feb,2,Sunday,1,0,≤ ₹500
+TXN100259,2026-02-23,06:40:19,UPI,Success,Nagpur,Other,2205.47,Feb,2,Monday,1,0,₹2K–₹5K
+TXN100260,2026-06-28,12:09:26,UPI,Success,Nashik,Entertainment,945.25,Jun,6,Sunday,1,0,₹501–₹2K
+TXN100261,2026-08-30,18:26:32,Net Banking,Success,Kolhapur,Healthcare,900.25,Aug,8,Sunday,1,0,₹501–₹2K
+TXN100262,2026-02-21,07:46:38,UPI,Success,Delhi,Bills,322.24,Feb,2,Saturday,1,0,≤ ₹500
+TXN100263,2026-04-02,01:08:14,UPI,Success,Bengaluru,Travel,316.28,Apr,4,Thursday,1,0,≤ ₹500
+TXN100264,2026-10-09,01:29:36,UPI,Success,Thane,Entertainment,117.45,Oct,10,Friday,1,0,≤ ₹500
+TXN100265,2026-10-28,20:12:37,Debit Card,Failed,Thane,Entertainment,784.06,Oct,10,Wednesday,0,1,₹501–₹2K
+TXN100266,2026-06-26,02:32:46,Net Banking,Success,Delhi,Education,612.41,Jun,6,Friday,1,0,₹501–₹2K
+TXN100267,2026-05-16,15:14:31,Net Banking,Success,Nashik,Entertainment,1203.63,May,5,Saturday,1,0,₹501–₹2K
+TXN100268,2026-04-16,09:57:48,UPI,Success,Nashik,Bills,337.24,Apr,4,Thursday,1,0,≤ ₹500
+TXN100269,2026-07-06,18:04:13,Debit Card,Success,Aurangabad,Travel,357.63,Jul,7,Monday,1,0,≤ ₹500
+TXN100270,2026-06-29,01:57:42,UPI,Success,Thane,Entertainment,466.16,Jun,6,Monday,1,0,≤ ₹500
+TXN100271,2026-03-31,21:47:02,Debit Card,Success,Thane,Travel,861.02,Mar,3,Tuesday,1,0,₹501–₹2K
+TXN100272,2026-01-07,16:51:06,UPI,Success,Mumbai,Entertainment,115.62,Jan,1,Wednesday,1,0,≤ ₹500
+TXN100273,2026-02-16,10:51:51,UPI,Success,Delhi,Travel,754.19,Feb,2,Monday,1,0,₹501–₹2K
+TXN100274,2026-10-19,04:11:28,UPI,Success,Nagpur,Bills,396.46,Oct,10,Monday,1,0,≤ ₹500
+TXN100275,2026-05-08,23:55:37,Debit Card,Pending,Bengaluru,Shopping,164.05,May,5,Friday,0,0,≤ ₹500
+TXN100276,2026-05-27,07:35:36,Debit Card,Success,Delhi,Education,68.59,May,5,Wednesday,1,0,≤ ₹500
+TXN100277,2026-05-23,11:57:41,UPI,Success,Hyderabad,Travel,359.24,May,5,Saturday,1,0,≤ ₹500
+TXN100278,2026-08-26,09:52:14,Net Banking,Failed,Thane,Bills,1380.99,Aug,8,Wednesday,0,1,₹501–₹2K
+TXN100279,2026-01-20,05:34:10,Credit Card,Success,Kolhapur,Healthcare,1674.86,Jan,1,Tuesday,1,0,₹501–₹2K
+TXN100280,2026-01-26,09:22:02,UPI,Success,Mumbai,Food,545.7,Jan,1,Monday,1,0,₹501–₹2K
+TXN100281,2026-03-25,03:07:51,Net Banking,Success,Nagpur,Food,2138.17,Mar,3,Wednesday,1,0,₹2K–₹5K
+TXN100282,2026-05-28,00:06:13,Net Banking,Failed,Bengaluru,Other,388.97,May,5,Thursday,0,1,≤ ₹500
+TXN100283,2026-07-24,06:23:34,UPI,Success,Nagpur,Healthcare,907.15,Jul,7,Friday,1,0,₹501–₹2K
+TXN100284,2026-05-30,02:48:27,Debit Card,Success,Pune,Education,274.91,May,5,Saturday,1,0,≤ ₹500
+TXN100285,2026-05-15,09:30:09,UPI,Pending,Nashik,Food,260.5,May,5,Friday,0,0,≤ ₹500
+TXN100286,2026-10-13,20:28:24,Credit Card,Success,Kolhapur,Education,226.81,Oct,10,Tuesday,1,0,≤ ₹500
+TXN100287,2026-02-18,03:14:04,UPI,Pending,Thane,Travel,70.0,Feb,2,Wednesday,0,0,≤ ₹500
+TXN100288,2026-06-23,00:33:10,Credit Card,Success,Hyderabad,Education,1204.75,Jun,6,Tuesday,1,0,₹501–₹2K
+TXN100289,2026-06-14,02:38:08,UPI,Failed,Hyderabad,Food,233.83,Jun,6,Sunday,0,1,≤ ₹500
+TXN100290,2026-05-24,12:58:49,Debit Card,Success,Kolhapur,Education,204.13,May,5,Sunday,1,0,≤ ₹500
+TXN100291,2026-09-03,06:43:34,Wallet,Success,Kolhapur,Education,147.97,Sep,9,Thursday,1,0,≤ ₹500
+TXN100292,2026-03-23,11:36:55,UPI,Success,Bengaluru,Bills,339.1,Mar,3,Monday,1,0,≤ ₹500
+TXN100293,2026-10-17,00:54:26,Net Banking,Success,Pune,Food,1806.18,Oct,10,Saturday,1,0,₹501–₹2K
+TXN100294,2026-04-11,07:25:12,Wallet,Success,Kolhapur,Other,2391.59,Apr,4,Saturday,1,0,₹2K–₹5K
+TXN100295,2026-06-15,09:56:36,Net Banking,Failed,Aurangabad,Healthcare,98.32,Jun,6,Monday,0,1,≤ ₹500
+TXN100296,2026-06-08,10:22:55,UPI,Success,Delhi,Education,298.48,Jun,6,Monday,1,0,≤ ₹500
+TXN100297,2026-09-16,13:07:31,Net Banking,Success,Bengaluru,Entertainment,167.47,Sep,9,Wednesday,1,0,≤ ₹500
+TXN100298,2026-05-14,18:25:01,UPI,Success,Thane,Healthcare,934.57,May,5,Thursday,1,0,₹501–₹2K
+TXN100299,2026-03-28,11:07:18,UPI,Success,Thane,Shopping,514.71,Mar,3,Saturday,1,0,₹501–₹2K
+TXN100300,2026-01-07,20:07:55,Net Banking,Success,Thane,Travel,234.84,Jan,1,Wednesday,1,0,≤ ₹500
+TXN100301,2026-04-21,12:52:31,Credit Card,Success,Kolhapur,Other,429.1,Apr,4,Tuesday,1,0,≤ ₹500
+TXN100302,2026-09-09,06:47:57,Debit Card,Success,Nashik,Bills,268.86,Sep,9,Wednesday,1,0,≤ ₹500
+TXN100303,2026-01-04,05:13:30,UPI,Success,Nashik,Other,1590.99,Jan,1,Sunday,1,0,₹501–₹2K
+TXN100304,2026-09-30,07:50:00,Net Banking,Success,Delhi,Food,642.21,Sep,9,Wednesday,1,0,₹501–₹2K
+TXN100305,2026-06-15,14:04:52,Credit Card,Success,Thane,Bills,712.91,Jun,6,Monday,1,0,₹501–₹2K
+TXN100306,2026-02-12,05:17:45,UPI,Success,Nashik,Bills,50.0,Feb,2,Thursday,1,0,≤ ₹500
+TXN100307,2026-04-02,21:42:42,Net Banking,Success,Bengaluru,Education,381.16,Apr,4,Thursday,1,0,≤ ₹500
+TXN100308,2026-06-18,11:18:58,UPI,Failed,Hyderabad,Shopping,2370.2,Jun,6,Thursday,0,1,₹2K–₹5K
+TXN100309,2026-04-06,20:43:11,UPI,Success,Thane,Shopping,1245.4,Apr,4,Monday,1,0,₹501–₹2K
+TXN100310,2026-02-03,16:52:54,Credit Card,Success,Nashik,Healthcare,83.93,Feb,2,Tuesday,1,0,≤ ₹500
+TXN100311,2026-07-22,08:03:13,Wallet,Success,Hyderabad,Bills,309.08,Jul,7,Wednesday,1,0,≤ ₹500
+TXN100312,2026-07-24,05:01:58,UPI,Success,Nashik,Other,145.29,Jul,7,Friday,1,0,≤ ₹500
+TXN100313,2026-02-06,17:56:11,UPI,Success,Aurangabad,Entertainment,1727.51,Feb,2,Friday,1,0,₹501–₹2K
+TXN100314,2026-03-27,07:31:33,UPI,Success,Bengaluru,Bills,496.53,Mar,3,Friday,1,0,≤ ₹500
+TXN100315,2026-03-16,05:30:47,Net Banking,Success,Kolhapur,Education,210.06,Mar,3,Monday,1,0,≤ ₹500
+TXN100316,2026-07-20,22:27:04,UPI,Success,Nashik,Bills,415.31,Jul,7,Monday,1,0,≤ ₹500
+TXN100317,2026-08-11,11:26:04,Debit Card,Success,Pune,Bills,50.0,Aug,8,Tuesday,1,0,≤ ₹500
+TXN100318,2026-08-10,01:41:50,Wallet,Success,Nagpur,Healthcare,160.42,Aug,8,Monday,1,0,≤ ₹500
+TXN100319,2026-10-13,11:34:03,UPI,Success,Thane,Bills,416.12,Oct,10,Tuesday,1,0,≤ ₹500
+TXN100320,2026-08-22,11:09:36,Debit Card,Success,Delhi,Shopping,827.84,Aug,8,Saturday,1,0,₹501–₹2K
+TXN100321,2026-04-08,20:37:56,Debit Card,Success,Nashik,Bills,77.47,Apr,4,Wednesday,1,0,≤ ₹500
+TXN100322,2026-02-02,17:40:36,Net Banking,Success,Mumbai,Other,291.79,Feb,2,Monday,1,0,≤ ₹500
+TXN100323,2026-07-06,04:06:28,UPI,Success,Delhi,Bills,951.68,Jul,7,Monday,1,0,₹501–₹2K
+TXN100324,2026-10-06,03:22:25,UPI,Failed,Mumbai,Bills,117.48,Oct,10,Tuesday,0,1,≤ ₹500
+TXN100325,2026-10-24,14:47:38,UPI,Success,Pune,Healthcare,490.2,Oct,10,Saturday,1,0,≤ ₹500
+TXN100326,2026-03-11,01:37:34,Credit Card,Success,Aurangabad,Food,426.7,Mar,3,Wednesday,1,0,≤ ₹500
+TXN100327,2026-03-13,07:08:30,Net Banking,Success,Kolhapur,Bills,1732.33,Mar,3,Friday,1,0,₹501–₹2K
+TXN100328,2026-01-12,03:02:09,UPI,Success,Nashik,Shopping,331.75,Jan,1,Monday,1,0,≤ ₹500
+TXN100329,2026-02-12,00:34:39,UPI,Success,Nashik,Other,348.67,Feb,2,Thursday,1,0,≤ ₹500
+TXN100330,2026-06-18,22:27:44,Net Banking,Failed,Nashik,Other,834.4,Jun,6,Thursday,0,1,₹501–₹2K
+TXN100331,2026-06-16,02:57:42,UPI,Success,Nagpur,Entertainment,130.66,Jun,6,Tuesday,1,0,≤ ₹500
+TXN100332,2026-04-23,00:31:04,UPI,Success,Pune,Shopping,334.37,Apr,4,Thursday,1,0,≤ ₹500
+TXN100333,2026-04-05,22:55:42,Debit Card,Success,Pune,Education,273.86,Apr,4,Sunday,1,0,≤ ₹500
+TXN100334,2026-09-10,04:12:43,UPI,Success,Nagpur,Healthcare,358.5,Sep,9,Thursday,1,0,≤ ₹500
+TXN100335,2026-05-20,19:26:11,UPI,Success,Pune,Entertainment,829.77,May,5,Wednesday,1,0,₹501–₹2K
+TXN100336,2026-09-03,00:08:50,UPI,Success,Nagpur,Shopping,646.15,Sep,9,Thursday,1,0,₹501–₹2K
+TXN100337,2026-10-20,03:34:31,UPI,Success,Kolhapur,Healthcare,213.5,Oct,10,Tuesday,1,0,≤ ₹500
+TXN100338,2026-04-07,02:11:28,Debit Card,Success,Pune,Shopping,453.14,Apr,4,Tuesday,1,0,≤ ₹500
+TXN100339,2026-03-03,16:29:43,Credit Card,Success,Thane,Education,1432.07,Mar,3,Tuesday,1,0,₹501–₹2K
+TXN100340,2026-10-17,14:20:30,Debit Card,Success,Thane,Other,199.01,Oct,10,Saturday,1,0,≤ ₹500
+TXN100341,2026-07-12,11:11:32,UPI,Success,Kolhapur,Food,456.41,Jul,7,Sunday,1,0,≤ ₹500
+TXN100342,2026-03-30,05:05:18,Net Banking,Success,Thane,Shopping,342.34,Mar,3,Monday,1,0,≤ ₹500
+TXN100343,2026-07-09,02:30:55,UPI,Success,Bengaluru,Entertainment,382.39,Jul,7,Thursday,1,0,≤ ₹500
+TXN100344,2026-06-06,13:56:58,Net Banking,Success,Pune,Food,100.88,Jun,6,Saturday,1,0,≤ ₹500
+TXN100345,2026-10-03,05:11:07,UPI,Success,Mumbai,Healthcare,1338.29,Oct,10,Saturday,1,0,₹501–₹2K
+TXN100346,2026-03-19,14:24:43,Net Banking,Failed,Nagpur,Education,208.89,Mar,3,Thursday,0,1,≤ ₹500
+TXN100347,2026-10-29,16:13:01,UPI,Success,Thane,Bills,965.03,Oct,10,Thursday,1,0,₹501–₹2K
+TXN100348,2026-10-12,20:48:22,UPI,Success,Bengaluru,Entertainment,237.9,Oct,10,Monday,1,0,≤ ₹500
+TXN100349,2026-02-24,11:24:58,Debit Card,Failed,Hyderabad,Entertainment,237.06,Feb,2,Tuesday,0,1,≤ ₹500
+TXN100350,2026-02-20,00:58:10,UPI,Success,Kolhapur,Bills,1131.34,Feb,2,Friday,1,0,₹501–₹2K
+TXN100351,2026-06-12,06:14:22,UPI,Success,Aurangabad,Food,938.99,Jun,6,Friday,1,0,₹501–₹2K
+TXN100352,2026-01-14,20:04:13,Credit Card,Failed,Aurangabad,Shopping,481.72,Jan,1,Wednesday,0,1,≤ ₹500
+TXN100353,2026-04-01,12:34:43,Net Banking,Failed,Pune,Food,770.45,Apr,4,Wednesday,0,1,₹501–₹2K
+TXN100354,2026-05-13,14:39:27,UPI,Success,Aurangabad,Other,315.68,May,5,Wednesday,1,0,≤ ₹500
+TXN100355,2026-10-22,10:59:35,Net Banking,Success,Kolhapur,Education,400.57,Oct,10,Thursday,1,0,≤ ₹500
+TXN100356,2026-10-29,03:52:56,Net Banking,Success,Nashik,Healthcare,229.89,Oct,10,Thursday,1,0,≤ ₹500
+TXN100357,2026-02-16,21:53:31,Net Banking,Pending,Delhi,Shopping,869.97,Feb,2,Monday,0,0,₹501–₹2K
+TXN100358,2026-09-29,18:38:44,Credit Card,Failed,Bengaluru,Entertainment,223.77,Sep,9,Tuesday,0,1,≤ ₹500
+TXN100359,2026-01-28,23:21:05,Credit Card,Success,Nagpur,Healthcare,1425.65,Jan,1,Wednesday,1,0,₹501–₹2K
+TXN100360,2026-08-16,20:25:12,Debit Card,Success,Hyderabad,Entertainment,308.44,Aug,8,Sunday,1,0,≤ ₹500
+TXN100361,2026-09-15,06:08:56,Credit Card,Success,Mumbai,Travel,410.52,Sep,9,Tuesday,1,0,≤ ₹500
+TXN100362,2026-09-28,06:25:51,Wallet,Success,Hyderabad,Healthcare,768.87,Sep,9,Monday,1,0,₹501–₹2K
+TXN100363,2026-03-09,05:21:39,UPI,Success,Delhi,Education,411.7,Mar,3,Monday,1,0,≤ ₹500
+TXN100364,2026-09-29,22:02:22,UPI,Success,Nashik,Travel,313.18,Sep,9,Tuesday,1,0,≤ ₹500
+TXN100365,2026-02-05,13:12:11,UPI,Success,Thane,Education,393.26,Feb,2,Thursday,1,0,≤ ₹500
+TXN100366,2026-06-07,10:32:51,Wallet,Success,Nagpur,Bills,862.42,Jun,6,Sunday,1,0,₹501–₹2K
+TXN100367,2026-05-23,23:22:47,UPI,Success,Delhi,Other,229.65,May,5,Saturday,1,0,≤ ₹500
+TXN100368,2026-04-07,14:59:14,Credit Card,Success,Mumbai,Healthcare,362.38,Apr,4,Tuesday,1,0,≤ ₹500
+TXN100369,2026-01-07,21:28:35,Net Banking,Success,Nashik,Healthcare,406.97,Jan,1,Wednesday,1,0,≤ ₹500
+TXN100370,2026-08-23,23:57:37,Wallet,Success,Nagpur,Healthcare,841.26,Aug,8,Sunday,1,0,₹501–₹2K
+TXN100371,2026-04-13,01:39:28,UPI,Failed,Mumbai,Travel,370.6,Apr,4,Monday,0,1,≤ ₹500
+TXN100372,2026-07-21,08:02:55,Net Banking,Success,Nagpur,Other,1876.29,Jul,7,Tuesday,1,0,₹501–₹2K
+TXN100373,2026-05-05,17:12:07,Net Banking,Success,Thane,Shopping,353.17,May,5,Tuesday,1,0,≤ ₹500
+TXN100374,2026-04-24,19:42:15,UPI,Success,Thane,Education,329.63,Apr,4,Friday,1,0,≤ ₹500
+TXN100375,2026-09-27,03:32:05,Credit Card,Success,Kolhapur,Food,348.84,Sep,9,Sunday,1,0,≤ ₹500
+TXN100376,2026-01-29,07:18:41,UPI,Success,Mumbai,Bills,131.74,Jan,1,Thursday,1,0,≤ ₹500
+TXN100377,2026-08-12,13:31:38,Credit Card,Success,Nashik,Education,167.13,Aug,8,Wednesday,1,0,≤ ₹500
+TXN100378,2026-08-16,19:54:59,Debit Card,Success,Hyderabad,Travel,256.96,Aug,8,Sunday,1,0,≤ ₹500
+TXN100379,2026-04-26,02:23:32,UPI,Success,Nashik,Other,1059.4,Apr,4,Sunday,1,0,₹501–₹2K
+TXN100380,2026-03-21,14:02:09,UPI,Success,Mumbai,Education,392.23,Mar,3,Saturday,1,0,≤ ₹500
+TXN100381,2026-01-02,07:18:27,UPI,Success,Aurangabad,Travel,267.21,Jan,1,Friday,1,0,≤ ₹500
+TXN100382,2026-10-12,05:56:05,UPI,Success,Pune,Travel,1144.31,Oct,10,Monday,1,0,₹501–₹2K
+TXN100383,2026-10-16,12:45:40,Debit Card,Success,Nagpur,Education,1507.94,Oct,10,Friday,1,0,₹501–₹2K
+TXN100384,2026-03-15,09:50:40,UPI,Success,Bengaluru,Entertainment,1172.71,Mar,3,Sunday,1,0,₹501–₹2K
+TXN100385,2026-01-10,15:54:51,UPI,Success,Nashik,Bills,195.37,Jan,1,Saturday,1,0,≤ ₹500
+TXN100386,2026-02-07,07:07:20,Credit Card,Success,Delhi,Education,264.82,Feb,2,Saturday,1,0,≤ ₹500
+TXN100387,2026-01-21,19:16:18,Credit Card,Success,Aurangabad,Education,1884.99,Jan,1,Wednesday,1,0,₹501–₹2K
+TXN100388,2026-09-10,01:03:04,Debit Card,Success,Nagpur,Food,495.2,Sep,9,Thursday,1,0,≤ ₹500
+TXN100389,2026-09-29,20:00:24,Wallet,Pending,Thane,Other,321.35,Sep,9,Tuesday,0,0,≤ ₹500
+TXN100390,2026-02-16,00:50:28,UPI,Pending,Kolhapur,Education,742.93,Feb,2,Monday,0,0,₹501–₹2K
+TXN100391,2026-08-16,17:56:45,Net Banking,Pending,Nagpur,Shopping,949.76,Aug,8,Sunday,0,0,₹501–₹2K
+TXN100392,2026-02-24,08:09:45,UPI,Success,Nashik,Healthcare,248.21,Feb,2,Tuesday,1,0,≤ ₹500
+TXN100393,2026-04-22,09:43:08,Credit Card,Success,Hyderabad,Healthcare,486.15,Apr,4,Wednesday,1,0,≤ ₹500
+TXN100394,2026-07-02,00:32:17,Wallet,Success,Mumbai,Other,886.76,Jul,7,Thursday,1,0,₹501–₹2K
+TXN100395,2026-08-07,16:04:30,Net Banking,Success,Hyderabad,Food,150.47,Aug,8,Friday,1,0,≤ ₹500
+TXN100396,2026-09-23,03:54:20,Debit Card,Success,Aurangabad,Travel,407.68,Sep,9,Wednesday,1,0,≤ ₹500
+TXN100397,2026-01-14,15:52:01,Debit Card,Success,Hyderabad,Shopping,156.46,Jan,1,Wednesday,1,0,≤ ₹500
+TXN100398,2026-03-01,17:34:50,UPI,Success,Nagpur,Education,174.85,Mar,3,Sunday,1,0,≤ ₹500
+TXN100399,2026-03-27,20:42:43,Credit Card,Success,Kolhapur,Education,249.98,Mar,3,Friday,1,0,≤ ₹500
+TXN100400,2026-04-05,16:23:31,Net Banking,Success,Thane,Travel,605.2,Apr,4,Sunday,1,0,₹501–₹2K
+TXN100401,2026-10-31,07:47:19,Wallet,Success,Nagpur,Other,306.83,Oct,10,Saturday,1,0,≤ ₹500
+TXN100402,2026-08-25,17:26:50,Debit Card,Success,Nashik,Education,232.49,Aug,8,Tuesday,1,0,≤ ₹500
+TXN100403,2026-04-08,19:59:02,UPI,Success,Kolhapur,Travel,421.5,Apr,4,Wednesday,1,0,≤ ₹500
+TXN100404,2026-10-23,07:03:26,Debit Card,Success,Thane,Food,152.18,Oct,10,Friday,1,0,≤ ₹500
+TXN100405,2026-06-01,02:10:48,UPI,Success,Nashik,Bills,580.84,Jun,6,Monday,1,0,₹501–₹2K
+TXN100406,2026-06-02,21:58:57,UPI,Success,Delhi,Other,1055.4,Jun,6,Tuesday,1,0,₹501–₹2K
+TXN100407,2026-05-12,03:17:15,UPI,Success,Thane,Travel,377.16,May,5,Tuesday,1,0,≤ ₹500
+TXN100408,2026-02-13,14:18:39,Credit Card,Success,Mumbai,Other,339.59,Feb,2,Friday,1,0,≤ ₹500
+TXN100409,2026-10-12,05:47:11,UPI,Success,Hyderabad,Education,554.14,Oct,10,Monday,1,0,₹501–₹2K
+TXN100410,2026-01-05,03:11:06,UPI,Success,Pune,Education,71.94,Jan,1,Monday,1,0,≤ ₹500
+TXN100411,2026-02-22,18:30:21,UPI,Success,Thane,Travel,636.7,Feb,2,Sunday,1,0,₹501–₹2K
+TXN100412,2026-03-11,03:17:53,Net Banking,Success,Aurangabad,Education,5634.16,Mar,3,Wednesday,1,0,₹5K–₹10K
+TXN100413,2026-03-26,16:11:41,Credit Card,Failed,Thane,Food,363.48,Mar,3,Thursday,0,1,≤ ₹500
+TXN100414,2026-02-10,16:57:29,UPI,Success,Delhi,Food,364.58,Feb,2,Tuesday,1,0,≤ ₹500
+TXN100415,2026-01-06,01:11:16,UPI,Success,Thane,Travel,759.05,Jan,1,Tuesday,1,0,₹501–₹2K
+TXN100416,2026-07-26,04:05:08,Debit Card,Success,Thane,Education,1633.59,Jul,7,Sunday,1,0,₹501–₹2K
+TXN100417,2026-10-22,19:40:16,UPI,Success,Bengaluru,Education,924.01,Oct,10,Thursday,1,0,₹501–₹2K
+TXN100418,2026-02-07,12:52:09,Debit Card,Success,Delhi,Travel,64.57,Feb,2,Saturday,1,0,≤ ₹500
+TXN100419,2026-04-01,02:07:11,UPI,Success,Bengaluru,Bills,651.25,Apr,4,Wednesday,1,0,₹501–₹2K
+TXN100420,2026-06-03,23:42:41,Wallet,Success,Aurangabad,Healthcare,3590.84,Jun,6,Wednesday,1,0,₹2K–₹5K
+TXN100421,2026-10-09,06:32:07,UPI,Success,Nashik,Education,684.76,Oct,10,Friday,1,0,₹501–₹2K
+TXN100422,2026-07-31,00:49:02,Credit Card,Success,Nashik,Food,151.2,Jul,7,Friday,1,0,≤ ₹500
+TXN100423,2026-08-21,22:07:32,UPI,Success,Thane,Travel,512.63,Aug,8,Friday,1,0,₹501–₹2K
+TXN100424,2026-06-26,00:58:17,Wallet,Failed,Kolhapur,Healthcare,135.83,Jun,6,Friday,0,1,≤ ₹500
+TXN100425,2026-05-07,13:37:27,Wallet,Success,Pune,Entertainment,1150.42,May,5,Thursday,1,0,₹501–₹2K
+TXN100426,2026-03-02,23:50:08,Credit Card,Failed,Nashik,Bills,179.02,Mar,3,Monday,0,1,≤ ₹500
+TXN100427,2026-09-20,13:21:12,UPI,Success,Hyderabad,Other,429.71,Sep,9,Sunday,1,0,≤ ₹500
+TXN100428,2026-09-02,14:56:26,UPI,Success,Delhi,Healthcare,194.59,Sep,9,Wednesday,1,0,≤ ₹500
+TXN100429,2026-01-08,09:37:41,Net Banking,Success,Delhi,Travel,253.54,Jan,1,Thursday,1,0,≤ ₹500
+TXN100430,2026-08-06,03:07:24,Credit Card,Failed,Mumbai,Healthcare,1426.86,Aug,8,Thursday,0,1,₹501–₹2K
+TXN100431,2026-01-26,13:55:32,UPI,Success,Pune,Entertainment,440.51,Jan,1,Monday,1,0,≤ ₹500
+TXN100432,2026-08-13,21:47:31,UPI,Success,Nashik,Shopping,250.81,Aug,8,Thursday,1,0,≤ ₹500
+TXN100433,2026-09-09,02:18:16,UPI,Success,Bengaluru,Shopping,152.41,Sep,9,Wednesday,1,0,≤ ₹500
+TXN100434,2026-02-09,21:32:16,Net Banking,Success,Kolhapur,Travel,82.19,Feb,2,Monday,1,0,≤ ₹500
+TXN100435,2026-05-12,09:23:25,Credit Card,Success,Delhi,Food,139.27,May,5,Tuesday,1,0,≤ ₹500
+TXN100436,2026-02-07,12:32:01,Credit Card,Success,Aurangabad,Entertainment,443.71,Feb,2,Saturday,1,0,≤ ₹500
+TXN100437,2026-06-22,03:57:41,Credit Card,Success,Aurangabad,Other,928.15,Jun,6,Monday,1,0,₹501–₹2K
+TXN100438,2026-10-09,14:53:36,UPI,Success,Thane,Education,250.56,Oct,10,Friday,1,0,≤ ₹500
+TXN100439,2026-01-25,04:12:18,UPI,Success,Hyderabad,Other,1532.97,Jan,1,Sunday,1,0,₹501–₹2K
+TXN100440,2026-05-01,06:58:22,UPI,Success,Aurangabad,Food,219.23,May,5,Friday,1,0,≤ ₹500
+TXN100441,2026-10-23,17:26:19,Net Banking,Success,Kolhapur,Healthcare,329.54,Oct,10,Friday,1,0,≤ ₹500
+TXN100442,2026-04-02,01:42:39,UPI,Success,Hyderabad,Travel,161.15,Apr,4,Thursday,1,0,≤ ₹500
+TXN100443,2026-02-10,10:45:45,UPI,Success,Nagpur,Bills,936.5,Feb,2,Tuesday,1,0,₹501–₹2K
+TXN100444,2026-05-29,14:28:06,UPI,Failed,Bengaluru,Bills,2399.18,May,5,Friday,0,1,₹2K–₹5K
+TXN100445,2026-06-04,03:27:24,UPI,Success,Kolhapur,Education,90.24,Jun,6,Thursday,1,0,≤ ₹500
+TXN100446,2026-07-21,07:27:00,Debit Card,Success,Bengaluru,Healthcare,300.59,Jul,7,Tuesday,1,0,≤ ₹500
+TXN100447,2026-04-06,08:51:27,UPI,Success,Aurangabad,Shopping,1182.12,Apr,4,Monday,1,0,₹501–₹2K
+TXN100448,2026-10-18,15:23:14,UPI,Success,Thane,Education,117.93,Oct,10,Sunday,1,0,≤ ₹500
+TXN100449,2026-06-08,23:16:20,Net Banking,Success,Nagpur,Other,653.07,Jun,6,Monday,1,0,₹501–₹2K
+TXN100450,2026-03-29,20:21:27,UPI,Success,Thane,Food,1139.39,Mar,3,Sunday,1,0,₹501–₹2K
+TXN100451,2026-10-19,04:11:19,UPI,Failed,Nagpur,Other,431.17,Oct,10,Monday,0,1,≤ ₹500
+TXN100452,2026-10-09,00:23:23,UPI,Success,Thane,Education,644.02,Oct,10,Friday,1,0,₹501–₹2K
+TXN100453,2026-06-01,01:06:45,Net Banking,Success,Delhi,Bills,1802.21,Jun,6,Monday,1,0,₹501–₹2K
+TXN100454,2026-01-08,14:05:48,UPI,Success,Aurangabad,Healthcare,2113.63,Jan,1,Thursday,1,0,₹2K–₹5K
+TXN100455,2026-07-01,03:43:00,Credit Card,Success,Aurangabad,Education,382.73,Jul,7,Wednesday,1,0,≤ ₹500
+TXN100456,2026-06-18,05:04:22,Wallet,Success,Nagpur,Entertainment,256.59,Jun,6,Thursday,1,0,≤ ₹500
+TXN100457,2026-02-15,20:34:50,Credit Card,Success,Delhi,Food,184.57,Feb,2,Sunday,1,0,≤ ₹500
+TXN100458,2026-07-12,20:46:31,UPI,Failed,Kolhapur,Food,925.58,Jul,7,Sunday,0,1,₹501–₹2K
+TXN100459,2026-09-13,20:43:12,Credit Card,Success,Kolhapur,Healthcare,125.71,Sep,9,Sunday,1,0,≤ ₹500
+TXN100460,2026-02-02,06:26:35,UPI,Success,Pune,Bills,325.48,Feb,2,Monday,1,0,≤ ₹500
+TXN100461,2026-08-08,14:11:08,UPI,Pending,Mumbai,Shopping,440.23,Aug,8,Saturday,0,0,≤ ₹500
+TXN100462,2026-02-12,14:55:01,Debit Card,Success,Pune,Travel,263.08,Feb,2,Thursday,1,0,≤ ₹500
+TXN100463,2026-08-16,04:50:37,UPI,Success,Bengaluru,Healthcare,511.76,Aug,8,Sunday,1,0,₹501–₹2K
+TXN100464,2026-05-08,13:36:30,UPI,Success,Bengaluru,Shopping,3568.27,May,5,Friday,1,0,₹2K–₹5K
+TXN100465,2026-01-02,12:05:45,UPI,Success,Pune,Other,363.81,Jan,1,Friday,1,0,≤ ₹500
+TXN100466,2026-10-21,09:02:20,UPI,Success,Pune,Travel,278.64,Oct,10,Wednesday,1,0,≤ ₹500
+TXN100467,2026-02-20,18:18:51,UPI,Success,Delhi,Shopping,956.26,Feb,2,Friday,1,0,₹501–₹2K
+TXN100468,2026-07-01,16:09:25,Debit Card,Success,Kolhapur,Food,494.55,Jul,7,Wednesday,1,0,≤ ₹500
+TXN100469,2026-02-25,12:51:44,Wallet,Failed,Nagpur,Entertainment,1371.19,Feb,2,Wednesday,0,1,₹501–₹2K
+TXN100470,2026-10-11,17:12:06,UPI,Success,Thane,Food,464.05,Oct,10,Sunday,1,0,≤ ₹500
+TXN100471,2026-08-13,18:16:05,Debit Card,Success,Nashik,Travel,326.63,Aug,8,Thursday,1,0,≤ ₹500
+TXN100472,2026-09-02,13:58:46,UPI,Success,Mumbai,Healthcare,88.57,Sep,9,Wednesday,1,0,≤ ₹500
+TXN100473,2026-05-12,06:49:50,UPI,Success,Nagpur,Education,101.82,May,5,Tuesday,1,0,≤ ₹500
+TXN100474,2026-05-23,18:13:56,UPI,Success,Bengaluru,Bills,84.75,May,5,Saturday,1,0,≤ ₹500
+TXN100475,2026-07-12,17:23:19,UPI,Success,Delhi,Food,556.93,Jul,7,Sunday,1,0,₹501–₹2K
+TXN100476,2026-08-27,23:30:01,UPI,Success,Mumbai,Healthcare,126.73,Aug,8,Thursday,1,0,≤ ₹500
+TXN100477,2026-09-15,03:39:58,UPI,Success,Kolhapur,Travel,1172.91,Sep,9,Tuesday,1,0,₹501–₹2K
+TXN100478,2026-01-06,10:56:36,UPI,Success,Bengaluru,Food,413.94,Jan,1,Tuesday,1,0,≤ ₹500
+TXN100479,2026-07-21,22:52:14,Debit Card,Success,Hyderabad,Shopping,327.81,Jul,7,Tuesday,1,0,≤ ₹500
+TXN100480,2026-02-03,12:58:45,UPI,Success,Delhi,Education,196.91,Feb,2,Tuesday,1,0,≤ ₹500
+TXN100481,2026-03-29,22:02:54,UPI,Success,Mumbai,Shopping,684.66,Mar,3,Sunday,1,0,₹501–₹2K
+TXN100482,2026-09-10,00:14:17,UPI,Success,Nashik,Travel,203.6,Sep,9,Thursday,1,0,≤ ₹500
+TXN100483,2026-03-18,00:33:46,Debit Card,Success,Nashik,Food,174.59,Mar,3,Wednesday,1,0,≤ ₹500
+TXN100484,2026-08-31,19:02:47,UPI,Success,Mumbai,Entertainment,1107.76,Aug,8,Monday,1,0,₹501–₹2K
+TXN100485,2026-05-21,08:21:30,Debit Card,Success,Mumbai,Healthcare,545.35,May,5,Thursday,1,0,₹501–₹2K
+TXN100486,2026-03-12,12:09:37,UPI,Failed,Nagpur,Entertainment,330.4,Mar,3,Thursday,0,1,≤ ₹500
+TXN100487,2026-04-12,10:55:16,UPI,Success,Kolhapur,Food,695.91,Apr,4,Sunday,1,0,₹501–₹2K
+TXN100488,2026-06-11,09:03:55,Wallet,Success,Nagpur,Travel,406.5,Jun,6,Thursday,1,0,≤ ₹500
+TXN100489,2026-08-21,22:08:58,UPI,Success,Aurangabad,Bills,558.67,Aug,8,Friday,1,0,₹501–₹2K
+TXN100490,2026-07-04,02:11:58,UPI,Success,Nashik,Education,201.48,Jul,7,Saturday,1,0,≤ ₹500
+TXN100491,2026-10-11,18:08:44,UPI,Success,Mumbai,Entertainment,2344.53,Oct,10,Sunday,1,0,₹2K–₹5K
+TXN100492,2026-09-21,21:34:02,Wallet,Success,Hyderabad,Shopping,246.49,Sep,9,Monday,1,0,≤ ₹500
+TXN100493,2026-08-18,15:21:21,Debit Card,Success,Kolhapur,Entertainment,1514.16,Aug,8,Tuesday,1,0,₹501–₹2K
+TXN100494,2026-07-03,09:54:26,Debit Card,Success,Nashik,Education,343.59,Jul,7,Friday,1,0,≤ ₹500
+TXN100495,2026-03-30,03:15:57,Wallet,Success,Bengaluru,Entertainment,801.14,Mar,3,Monday,1,0,₹501–₹2K
+TXN100496,2026-05-06,16:32:32,UPI,Success,Bengaluru,Food,753.02,May,5,Wednesday,1,0,₹501–₹2K
+TXN100497,2026-02-06,11:39:32,Wallet,Success,Hyderabad,Other,1069.37,Feb,2,Friday,1,0,₹501–₹2K
+TXN100498,2026-04-24,03:37:08,UPI,Success,Mumbai,Travel,197.45,Apr,4,Friday,1,0,≤ ₹500
+TXN100499,2026-10-09,08:47:47,Debit Card,Success,Thane,Bills,1006.56,Oct,10,Friday,1,0,₹501–₹2K
+TXN100500,2026-05-10,23:12:20,UPI,Failed,Hyderabad,Shopping,1938.12,May,5,Sunday,0,1,₹501–₹2K
+TXN100501,2026-02-04,06:30:05,UPI,Success,Bengaluru,Other,323.8,Feb,2,Wednesday,1,0,≤ ₹500
+TXN100502,2026-07-18,04:48:59,Wallet,Success,Nashik,Other,415.51,Jul,7,Saturday,1,0,≤ ₹500
+TXN100503,2026-10-20,16:51:11,UPI,Success,Bengaluru,Shopping,258.55,Oct,10,Tuesday,1,0,≤ ₹500
+TXN100504,2026-09-21,04:37:00,Wallet,Success,Aurangabad,Travel,300.52,Sep,9,Monday,1,0,≤ ₹500
+TXN100505,2026-03-25,22:39:04,UPI,Failed,Aurangabad,Healthcare,1727.98,Mar,3,Wednesday,0,1,₹501–₹2K
+TXN100506,2026-05-18,20:51:27,Credit Card,Success,Kolhapur,Education,171.81,May,5,Monday,1,0,≤ ₹500
+TXN100507,2026-06-11,23:37:06,Wallet,Success,Delhi,Shopping,181.13,Jun,6,Thursday,1,0,≤ ₹500
+TXN100508,2026-03-17,21:56:50,UPI,Success,Mumbai,Bills,1586.47,Mar,3,Tuesday,1,0,₹501–₹2K
+TXN100509,2026-03-23,05:07:30,Wallet,Failed,Kolhapur,Bills,685.99,Mar,3,Monday,0,1,₹501–₹2K
+TXN100510,2026-03-13,05:20:19,Debit Card,Success,Bengaluru,Bills,2446.26,Mar,3,Friday,1,0,₹2K–₹5K
+TXN100511,2026-10-30,08:06:00,Credit Card,Success,Kolhapur,Other,275.1,Oct,10,Friday,1,0,≤ ₹500
+TXN100512,2026-08-15,11:05:28,UPI,Success,Nashik,Shopping,449.14,Aug,8,Saturday,1,0,≤ ₹500
+TXN100513,2026-09-13,21:28:09,Debit Card,Success,Pune,Healthcare,230.08,Sep,9,Sunday,1,0,≤ ₹500
+TXN100514,2026-09-06,17:13:58,Credit Card,Success,Kolhapur,Other,455.69,Sep,9,Sunday,1,0,≤ ₹500
+TXN100515,2026-10-19,15:24:17,UPI,Success,Delhi,Entertainment,89.3,Oct,10,Monday,1,0,≤ ₹500
+TXN100516,2026-02-02,21:26:28,UPI,Success,Kolhapur,Entertainment,722.13,Feb,2,Monday,1,0,₹501–₹2K
+TXN100517,2026-09-26,15:37:01,UPI,Success,Hyderabad,Shopping,531.1,Sep,9,Saturday,1,0,₹501–₹2K
+TXN100518,2026-01-21,09:56:07,Net Banking,Success,Thane,Shopping,384.17,Jan,1,Wednesday,1,0,≤ ₹500
+TXN100519,2026-05-25,09:50:12,UPI,Success,Kolhapur,Entertainment,289.51,May,5,Monday,1,0,≤ ₹500
+TXN100520,2026-06-30,12:22:03,Credit Card,Success,Pune,Healthcare,188.57,Jun,6,Tuesday,1,0,≤ ₹500
+TXN100521,2026-04-19,02:19:43,Wallet,Failed,Kolhapur,Healthcare,748.86,Apr,4,Sunday,0,1,₹501–₹2K
+TXN100522,2026-02-14,17:46:56,UPI,Success,Mumbai,Travel,149.09,Feb,2,Saturday,1,0,≤ ₹500
+TXN100523,2026-02-28,15:07:59,UPI,Failed,Delhi,Education,623.35,Feb,2,Saturday,0,1,₹501–₹2K
+TXN100524,2026-09-08,17:32:15,Credit Card,Success,Mumbai,Food,2352.62,Sep,9,Tuesday,1,0,₹2K–₹5K
+TXN100525,2026-04-07,12:25:47,UPI,Pending,Hyderabad,Bills,1426.09,Apr,4,Tuesday,0,0,₹501–₹2K
+TXN100526,2026-04-05,18:10:30,Debit Card,Success,Nagpur,Education,112.24,Apr,4,Sunday,1,0,≤ ₹500
+TXN100527,2026-10-08,22:36:02,Credit Card,Success,Aurangabad,Shopping,255.64,Oct,10,Thursday,1,0,≤ ₹500
+TXN100528,2026-02-13,13:19:05,Debit Card,Success,Mumbai,Shopping,577.23,Feb,2,Friday,1,0,₹501–₹2K
+TXN100529,2026-10-06,10:11:32,UPI,Success,Nashik,Food,380.03,Oct,10,Tuesday,1,0,≤ ₹500
+TXN100530,2026-10-07,02:39:25,Credit Card,Failed,Hyderabad,Shopping,122.79,Oct,10,Wednesday,0,1,≤ ₹500
+TXN100531,2026-07-01,18:10:00,Debit Card,Success,Nashik,Other,559.77,Jul,7,Wednesday,1,0,₹501–₹2K
+TXN100532,2026-02-20,21:40:55,UPI,Success,Kolhapur,Healthcare,400.01,Feb,2,Friday,1,0,≤ ₹500
+TXN100533,2026-02-17,16:09:43,Debit Card,Success,Hyderabad,Other,2053.24,Feb,2,Tuesday,1,0,₹2K–₹5K
+TXN100534,2026-03-28,20:26:30,Net Banking,Success,Thane,Bills,325.3,Mar,3,Saturday,1,0,≤ ₹500
+TXN100535,2026-06-25,20:48:59,Credit Card,Success,Pune,Education,1088.77,Jun,6,Thursday,1,0,₹501–₹2K
+TXN100536,2026-02-16,19:13:58,UPI,Success,Nagpur,Other,137.41,Feb,2,Monday,1,0,≤ ₹500
+TXN100537,2026-05-19,12:46:58,UPI,Success,Nagpur,Bills,168.37,May,5,Tuesday,1,0,≤ ₹500
+TXN100538,2026-02-05,02:43:15,UPI,Success,Nashik,Healthcare,745.02,Feb,2,Thursday,1,0,₹501–₹2K
+TXN100539,2026-06-14,00:54:52,UPI,Success,Nashik,Healthcare,1013.51,Jun,6,Sunday,1,0,₹501–₹2K
+TXN100540,2026-01-07,04:10:30,UPI,Success,Kolhapur,Entertainment,178.79,Jan,1,Wednesday,1,0,≤ ₹500
+TXN100541,2026-08-04,10:42:43,Wallet,Success,Nagpur,Other,411.77,Aug,8,Tuesday,1,0,≤ ₹500
+TXN100542,2026-01-17,17:56:51,UPI,Success,Nashik,Education,124.67,Jan,1,Saturday,1,0,≤ ₹500
+TXN100543,2026-03-01,10:45:09,Net Banking,Success,Aurangabad,Education,345.84,Mar,3,Sunday,1,0,≤ ₹500
+TXN100544,2026-02-23,00:11:26,UPI,Success,Nagpur,Entertainment,821.71,Feb,2,Monday,1,0,₹501–₹2K
+TXN100545,2026-09-10,05:49:07,UPI,Success,Nashik,Healthcare,278.74,Sep,9,Thursday,1,0,≤ ₹500
+TXN100546,2026-01-17,23:06:16,UPI,Success,Aurangabad,Bills,326.46,Jan,1,Saturday,1,0,≤ ₹500
+TXN100547,2026-05-11,23:35:24,UPI,Success,Hyderabad,Healthcare,154.42,May,5,Monday,1,0,≤ ₹500
+TXN100548,2026-06-29,09:29:51,Net Banking,Success,Kolhapur,Education,232.5,Jun,6,Monday,1,0,≤ ₹500
+TXN100549,2026-06-06,19:31:51,Wallet,Success,Kolhapur,Shopping,1797.94,Jun,6,Saturday,1,0,₹501–₹2K
+TXN100550,2026-07-26,17:31:23,Net Banking,Success,Hyderabad,Education,429.23,Jul,7,Sunday,1,0,≤ ₹500
+TXN100551,2026-09-02,22:01:19,UPI,Success,Thane,Education,172.09,Sep,9,Wednesday,1,0,≤ ₹500
+TXN100552,2026-04-30,21:30:31,Net Banking,Success,Nashik,Other,308.72,Apr,4,Thursday,1,0,≤ ₹500
+TXN100553,2026-09-09,15:56:54,UPI,Success,Nagpur,Education,103.77,Sep,9,Wednesday,1,0,≤ ₹500
+TXN100554,2026-04-07,09:26:58,Wallet,Success,Aurangabad,Shopping,170.37,Apr,4,Tuesday,1,0,≤ ₹500
+TXN100555,2026-10-27,15:16:13,Debit Card,Success,Aurangabad,Other,1282.14,Oct,10,Tuesday,1,0,₹501–₹2K
+TXN100556,2026-06-03,07:59:11,UPI,Success,Mumbai,Education,357.41,Jun,6,Wednesday,1,0,≤ ₹500
+TXN100557,2026-08-12,08:05:42,UPI,Failed,Mumbai,Bills,2012.48,Aug,8,Wednesday,0,1,₹2K–₹5K
+TXN100558,2026-09-24,14:29:18,UPI,Success,Nagpur,Entertainment,372.02,Sep,9,Thursday,1,0,≤ ₹500
+TXN100559,2026-08-29,13:30:11,UPI,Success,Hyderabad,Travel,391.28,Aug,8,Saturday,1,0,≤ ₹500
+TXN100560,2026-09-16,13:28:01,Wallet,Success,Delhi,Bills,695.59,Sep,9,Wednesday,1,0,₹501–₹2K
+TXN100561,2026-06-13,09:55:24,Net Banking,Success,Bengaluru,Entertainment,50.0,Jun,6,Saturday,1,0,≤ ₹500
+TXN100562,2026-01-14,09:25:23,Wallet,Success,Mumbai,Entertainment,480.2,Jan,1,Wednesday,1,0,≤ ₹500
+TXN100563,2026-05-30,00:58:33,UPI,Success,Aurangabad,Education,386.98,May,5,Saturday,1,0,≤ ₹500
+TXN100564,2026-02-25,14:04:12,Debit Card,Success,Kolhapur,Bills,1426.72,Feb,2,Wednesday,1,0,₹501–₹2K
+TXN100565,2026-09-28,13:44:42,UPI,Success,Aurangabad,Entertainment,915.96,Sep,9,Monday,1,0,₹501–₹2K
+TXN100566,2026-03-13,22:35:40,Debit Card,Success,Aurangabad,Shopping,153.91,Mar,3,Friday,1,0,≤ ₹500
+TXN100567,2026-03-11,12:14:27,UPI,Success,Nagpur,Healthcare,1159.59,Mar,3,Wednesday,1,0,₹501–₹2K
+TXN100568,2026-03-17,11:13:10,UPI,Success,Pune,Education,322.8,Mar,3,Tuesday,1,0,≤ ₹500
+TXN100569,2026-07-15,01:43:30,Debit Card,Success,Bengaluru,Entertainment,187.02,Jul,7,Wednesday,1,0,≤ ₹500
+TXN100570,2026-06-23,04:38:40,UPI,Success,Hyderabad,Travel,477.01,Jun,6,Tuesday,1,0,≤ ₹500
+TXN100571,2026-10-16,08:36:22,UPI,Pending,Pune,Entertainment,339.56,Oct,10,Friday,0,0,≤ ₹500
+TXN100572,2026-05-07,09:03:15,Credit Card,Success,Aurangabad,Food,1491.74,May,5,Thursday,1,0,₹501–₹2K
+TXN100573,2026-03-27,08:35:30,UPI,Pending,Kolhapur,Entertainment,538.9,Mar,3,Friday,0,0,₹501–₹2K
+TXN100574,2026-01-15,09:58:21,Wallet,Success,Delhi,Food,480.49,Jan,1,Thursday,1,0,≤ ₹500
+TXN100575,2026-01-03,18:01:24,Debit Card,Success,Hyderabad,Healthcare,867.44,Jan,1,Saturday,1,0,₹501–₹2K
+TXN100576,2026-04-24,03:28:20,Net Banking,Success,Aurangabad,Shopping,1021.41,Apr,4,Friday,1,0,₹501–₹2K
+TXN100577,2026-10-09,07:29:18,Credit Card,Success,Delhi,Other,785.3,Oct,10,Friday,1,0,₹501–₹2K
+TXN100578,2026-06-09,03:53:43,Credit Card,Pending,Hyderabad,Entertainment,1348.22,Jun,6,Tuesday,0,0,₹501–₹2K
+TXN100579,2026-09-29,07:16:27,Credit Card,Success,Bengaluru,Food,676.8,Sep,9,Tuesday,1,0,₹501–₹2K
+TXN100580,2026-01-31,16:28:27,Net Banking,Failed,Nashik,Other,465.22,Jan,1,Saturday,0,1,≤ ₹500
+TXN100581,2026-01-29,01:43:39,Debit Card,Success,Bengaluru,Bills,1156.67,Jan,1,Thursday,1,0,₹501–₹2K
+TXN100582,2026-09-11,08:03:21,UPI,Success,Aurangabad,Education,373.43,Sep,9,Friday,1,0,≤ ₹500
+TXN100583,2026-02-02,00:48:06,UPI,Success,Pune,Food,414.99,Feb,2,Monday,1,0,≤ ₹500
+TXN100584,2026-01-16,22:49:51,Debit Card,Success,Delhi,Food,1742.96,Jan,1,Friday,1,0,₹501–₹2K
+TXN100585,2026-05-03,17:43:03,UPI,Failed,Bengaluru,Shopping,1601.4,May,5,Sunday,0,1,₹501–₹2K
+TXN100586,2026-10-09,05:38:34,UPI,Success,Nagpur,Education,400.63,Oct,10,Friday,1,0,≤ ₹500
+TXN100587,2026-07-29,04:44:15,UPI,Success,Aurangabad,Education,274.37,Jul,7,Wednesday,1,0,≤ ₹500
+TXN100588,2026-01-31,02:46:12,Debit Card,Success,Nagpur,Entertainment,1399.26,Jan,1,Saturday,1,0,₹501–₹2K
+TXN100589,2026-09-12,11:54:02,UPI,Success,Mumbai,Shopping,796.6,Sep,9,Saturday,1,0,₹501–₹2K
+TXN100590,2026-09-14,18:25:54,Debit Card,Success,Hyderabad,Healthcare,527.55,Sep,9,Monday,1,0,₹501–₹2K
+TXN100591,2026-09-01,14:27:25,Net Banking,Success,Pune,Food,306.87,Sep,9,Tuesday,1,0,≤ ₹500
+TXN100592,2026-10-02,21:38:20,Net Banking,Success,Kolhapur,Bills,534.83,Oct,10,Friday,1,0,₹501–₹2K
+TXN100593,2026-03-14,08:11:44,UPI,Success,Pune,Shopping,396.05,Mar,3,Saturday,1,0,≤ ₹500
+TXN100594,2026-10-25,06:51:02,Debit Card,Success,Thane,Food,229.36,Oct,10,Sunday,1,0,≤ ₹500
+TXN100595,2026-04-08,11:46:33,Debit Card,Success,Hyderabad,Education,450.2,Apr,4,Wednesday,1,0,≤ ₹500
+TXN100596,2026-09-01,04:37:29,UPI,Success,Thane,Other,505.53,Sep,9,Tuesday,1,0,₹501–₹2K
+TXN100597,2026-06-26,23:18:33,Credit Card,Success,Thane,Healthcare,293.22,Jun,6,Friday,1,0,≤ ₹500
+TXN100598,2026-08-25,04:20:07,UPI,Failed,Bengaluru,Entertainment,869.79,Aug,8,Tuesday,0,1,₹501–₹2K
+TXN100599,2026-07-10,11:26:57,Wallet,Success,Hyderabad,Education,1206.53,Jul,7,Friday,1,0,₹501–₹2K
+TXN100600,2026-07-15,12:39:14,UPI,Success,Bengaluru,Food,920.04,Jul,7,Wednesday,1,0,₹501–₹2K
+TXN100601,2026-07-07,01:46:40,Net Banking,Success,Nashik,Bills,319.0,Jul,7,Tuesday,1,0,≤ ₹500
+TXN100602,2026-08-25,11:40:44,Debit Card,Success,Kolhapur,Entertainment,766.97,Aug,8,Tuesday,1,0,₹501–₹2K
+TXN100603,2026-08-13,10:55:20,UPI,Success,Bengaluru,Food,431.07,Aug,8,Thursday,1,0,≤ ₹500
+TXN100604,2026-02-10,06:57:07,Credit Card,Success,Nashik,Food,141.12,Feb,2,Tuesday,1,0,≤ ₹500
+TXN100605,2026-09-09,03:42:17,UPI,Success,Thane,Entertainment,714.67,Sep,9,Wednesday,1,0,₹501–₹2K
+TXN100606,2026-06-12,01:22:48,Net Banking,Success,Pune,Food,456.78,Jun,6,Friday,1,0,≤ ₹500
+TXN100607,2026-04-09,00:35:54,Debit Card,Success,Bengaluru,Other,3657.43,Apr,4,Thursday,1,0,₹2K–₹5K
+TXN100608,2026-06-06,11:25:56,UPI,Success,Thane,Entertainment,1392.26,Jun,6,Saturday,1,0,₹501–₹2K
+TXN100609,2026-10-21,02:37:13,UPI,Success,Delhi,Healthcare,738.39,Oct,10,Wednesday,1,0,₹501–₹2K
+TXN100610,2026-09-18,23:48:36,Credit Card,Success,Bengaluru,Education,498.6,Sep,9,Friday,1,0,≤ ₹500
+TXN100611,2026-09-11,05:22:09,UPI,Success,Nashik,Food,463.67,Sep,9,Friday,1,0,≤ ₹500
+TXN100612,2026-05-21,15:30:42,Net Banking,Success,Aurangabad,Travel,171.89,May,5,Thursday,1,0,≤ ₹500
+TXN100613,2026-08-27,16:02:24,Net Banking,Success,Bengaluru,Entertainment,92.01,Aug,8,Thursday,1,0,≤ ₹500
+TXN100614,2026-04-28,11:44:42,Credit Card,Success,Mumbai,Other,192.16,Apr,4,Tuesday,1,0,≤ ₹500
+TXN100615,2026-07-28,21:29:41,UPI,Success,Bengaluru,Travel,387.39,Jul,7,Tuesday,1,0,≤ ₹500
+TXN100616,2026-07-14,02:27:59,Credit Card,Success,Nashik,Entertainment,67.38,Jul,7,Tuesday,1,0,≤ ₹500
+TXN100617,2026-03-17,05:31:29,Wallet,Success,Kolhapur,Entertainment,254.0,Mar,3,Tuesday,1,0,≤ ₹500
+TXN100618,2026-03-23,06:12:20,UPI,Success,Kolhapur,Food,326.86,Mar,3,Monday,1,0,≤ ₹500
+TXN100619,2026-01-19,03:35:31,UPI,Pending,Thane,Education,335.92,Jan,1,Monday,0,0,≤ ₹500
+TXN100620,2026-02-12,07:44:09,UPI,Success,Bengaluru,Education,229.87,Feb,2,Thursday,1,0,≤ ₹500
+TXN100621,2026-05-12,07:20:06,UPI,Success,Nagpur,Education,301.78,May,5,Tuesday,1,0,≤ ₹500
+TXN100622,2026-05-26,18:07:31,Credit Card,Success,Mumbai,Entertainment,1746.4,May,5,Tuesday,1,0,₹501–₹2K
+TXN100623,2026-02-20,07:23:49,UPI,Success,Aurangabad,Other,708.27,Feb,2,Friday,1,0,₹501–₹2K
+TXN100624,2026-05-07,21:11:31,Debit Card,Success,Thane,Education,250.57,May,5,Thursday,1,0,≤ ₹500
+TXN100625,2026-07-03,18:22:46,UPI,Success,Delhi,Bills,380.66,Jul,7,Friday,1,0,≤ ₹500
+TXN100626,2026-03-12,21:37:10,UPI,Failed,Delhi,Other,393.84,Mar,3,Thursday,0,1,≤ ₹500
+TXN100627,2026-04-13,02:06:26,UPI,Success,Nagpur,Other,210.03,Apr,4,Monday,1,0,≤ ₹500
+TXN100628,2026-04-22,23:44:36,Net Banking,Success,Hyderabad,Healthcare,209.82,Apr,4,Wednesday,1,0,≤ ₹500
+TXN100629,2026-06-03,14:13:20,Debit Card,Success,Pune,Healthcare,952.36,Jun,6,Wednesday,1,0,₹501–₹2K
+TXN100630,2026-04-22,23:53:00,UPI,Success,Mumbai,Food,282.36,Apr,4,Wednesday,1,0,≤ ₹500
+TXN100631,2026-08-13,08:43:04,Net Banking,Pending,Pune,Travel,159.1,Aug,8,Thursday,0,0,≤ ₹500
+TXN100632,2026-04-10,22:16:55,UPI,Success,Hyderabad,Shopping,388.9,Apr,4,Friday,1,0,≤ ₹500
+TXN100633,2026-05-12,14:33:36,UPI,Success,Mumbai,Education,446.0,May,5,Tuesday,1,0,≤ ₹500
+TXN100634,2026-04-26,01:06:15,UPI,Success,Thane,Entertainment,75.43,Apr,4,Sunday,1,0,≤ ₹500
+TXN100635,2026-02-25,09:05:15,Wallet,Success,Bengaluru,Shopping,389.7,Feb,2,Wednesday,1,0,≤ ₹500
+TXN100636,2026-07-28,03:57:02,Credit Card,Success,Delhi,Other,843.69,Jul,7,Tuesday,1,0,₹501–₹2K
+TXN100637,2026-03-13,22:48:56,Debit Card,Success,Hyderabad,Shopping,592.02,Mar,3,Friday,1,0,₹501–₹2K
+TXN100638,2026-04-01,07:09:06,UPI,Success,Pune,Food,2684.7,Apr,4,Wednesday,1,0,₹2K–₹5K
+TXN100639,2026-08-29,05:16:45,UPI,Success,Aurangabad,Other,1168.46,Aug,8,Saturday,1,0,₹501–₹2K
+TXN100640,2026-10-16,13:11:14,Debit Card,Success,Kolhapur,Food,1382.42,Oct,10,Friday,1,0,₹501–₹2K
+TXN100641,2026-07-23,10:23:20,UPI,Success,Thane,Healthcare,4359.33,Jul,7,Thursday,1,0,₹2K–₹5K
+TXN100642,2026-10-06,02:17:16,Wallet,Success,Thane,Entertainment,768.49,Oct,10,Tuesday,1,0,₹501–₹2K
+TXN100643,2026-09-17,19:19:49,Net Banking,Success,Kolhapur,Bills,463.41,Sep,9,Thursday,1,0,≤ ₹500
+TXN100644,2026-05-27,20:31:01,UPI,Success,Nagpur,Food,923.05,May,5,Wednesday,1,0,₹501–₹2K
+TXN100645,2026-08-23,17:11:21,Credit Card,Success,Mumbai,Bills,250.8,Aug,8,Sunday,1,0,≤ ₹500
+TXN100646,2026-04-10,14:52:16,Wallet,Success,Aurangabad,Food,442.1,Apr,4,Friday,1,0,≤ ₹500
+TXN100647,2026-05-20,09:43:16,UPI,Success,Nashik,Healthcare,232.63,May,5,Wednesday,1,0,≤ ₹500
+TXN100648,2026-06-12,13:45:11,Credit Card,Success,Kolhapur,Other,565.83,Jun,6,Friday,1,0,₹501–₹2K
+TXN100649,2026-10-19,12:10:54,Wallet,Success,Delhi,Other,231.8,Oct,10,Monday,1,0,≤ ₹500
+TXN100650,2026-09-15,03:42:22,UPI,Success,Kolhapur,Entertainment,225.0,Sep,9,Tuesday,1,0,≤ ₹500
+TXN100651,2026-05-29,01:50:25,Net Banking,Success,Kolhapur,Entertainment,573.32,May,5,Friday,1,0,₹501–₹2K
+TXN100652,2026-07-18,06:10:23,UPI,Success,Pune,Other,358.86,Jul,7,Saturday,1,0,≤ ₹500
+TXN100653,2026-03-03,10:45:58,Credit Card,Success,Thane,Entertainment,78.38,Mar,3,Tuesday,1,0,≤ ₹500
+TXN100654,2026-09-02,03:21:20,Net Banking,Success,Aurangabad,Healthcare,117.07,Sep,9,Wednesday,1,0,≤ ₹500
+TXN100655,2026-06-18,02:47:20,Debit Card,Success,Mumbai,Other,152.14,Jun,6,Thursday,1,0,≤ ₹500
+TXN100656,2026-06-11,20:28:19,Debit Card,Success,Nashik,Bills,190.47,Jun,6,Thursday,1,0,≤ ₹500
+TXN100657,2026-08-21,08:48:19,Debit Card,Success,Delhi,Travel,573.79,Aug,8,Friday,1,0,₹501–₹2K
+TXN100658,2026-07-12,14:08:05,UPI,Success,Hyderabad,Other,485.95,Jul,7,Sunday,1,0,≤ ₹500
+TXN100659,2026-01-23,12:23:36,UPI,Failed,Kolhapur,Bills,997.73,Jan,1,Friday,0,1,₹501–₹2K
+TXN100660,2026-03-29,17:16:01,UPI,Success,Hyderabad,Bills,765.0,Mar,3,Sunday,1,0,₹501–₹2K
+TXN100661,2026-02-23,17:14:13,Debit Card,Failed,Mumbai,Shopping,1003.37,Feb,2,Monday,0,1,₹501–₹2K
+TXN100662,2026-08-12,07:18:12,UPI,Failed,Nashik,Bills,676.64,Aug,8,Wednesday,0,1,₹501–₹2K
+TXN100663,2026-01-11,20:22:17,UPI,Success,Hyderabad,Education,482.14,Jan,1,Sunday,1,0,≤ ₹500
+TXN100664,2026-03-03,08:07:45,Net Banking,Success,Mumbai,Other,1027.05,Mar,3,Tuesday,1,0,₹501–₹2K
+TXN100665,2026-07-01,20:42:35,UPI,Success,Thane,Shopping,881.39,Jul,7,Wednesday,1,0,₹501–₹2K
+TXN100666,2026-07-31,09:33:59,UPI,Success,Nashik,Healthcare,555.4,Jul,7,Friday,1,0,₹501–₹2K
+TXN100667,2026-06-03,02:49:21,UPI,Success,Nagpur,Entertainment,1188.46,Jun,6,Wednesday,1,0,₹501–₹2K
+TXN100668,2026-09-19,18:42:55,UPI,Success,Aurangabad,Other,54.93,Sep,9,Saturday,1,0,≤ ₹500
+TXN100669,2026-10-07,00:08:02,Credit Card,Success,Nagpur,Entertainment,315.17,Oct,10,Wednesday,1,0,≤ ₹500
+TXN100670,2026-02-10,18:04:30,UPI,Success,Bengaluru,Shopping,311.09,Feb,2,Tuesday,1,0,≤ ₹500
+TXN100671,2026-10-17,01:25:47,UPI,Pending,Hyderabad,Travel,1074.68,Oct,10,Saturday,0,0,₹501–₹2K
+TXN100672,2026-07-06,04:28:31,Wallet,Success,Kolhapur,Other,1534.08,Jul,7,Monday,1,0,₹501–₹2K
+TXN100673,2026-07-13,14:14:55,Net Banking,Success,Kolhapur,Other,117.61,Jul,7,Monday,1,0,≤ ₹500
+TXN100674,2026-01-29,22:46:18,Credit Card,Success,Pune,Education,1338.75,Jan,1,Thursday,1,0,₹501–₹2K
+TXN100675,2026-07-09,09:34:01,Net Banking,Success,Nashik,Other,149.05,Jul,7,Thursday,1,0,≤ ₹500
+TXN100676,2026-08-09,02:44:46,Wallet,Success,Pune,Healthcare,152.93,Aug,8,Sunday,1,0,≤ ₹500
+TXN100677,2026-06-26,05:06:04,UPI,Success,Bengaluru,Food,330.58,Jun,6,Friday,1,0,≤ ₹500
+TXN100678,2026-01-26,21:48:45,Debit Card,Success,Nashik,Other,307.82,Jan,1,Monday,1,0,≤ ₹500
+TXN100679,2026-06-09,17:12:44,Debit Card,Success,Nagpur,Shopping,107.27,Jun,6,Tuesday,1,0,≤ ₹500
+TXN100680,2026-10-12,02:26:50,UPI,Success,Bengaluru,Travel,700.92,Oct,10,Monday,1,0,₹501–₹2K
+TXN100681,2026-08-08,09:26:28,UPI,Success,Delhi,Shopping,718.73,Aug,8,Saturday,1,0,₹501–₹2K
+TXN100682,2026-02-11,06:49:53,UPI,Success,Thane,Healthcare,988.25,Feb,2,Wednesday,1,0,₹501–₹2K
+TXN100683,2026-10-19,04:16:10,Credit Card,Success,Pune,Food,279.1,Oct,10,Monday,1,0,≤ ₹500
+TXN100684,2026-10-19,20:14:26,Net Banking,Success,Kolhapur,Healthcare,390.08,Oct,10,Monday,1,0,≤ ₹500
+TXN100685,2026-02-21,14:20:07,Net Banking,Failed,Kolhapur,Entertainment,393.13,Feb,2,Saturday,0,1,≤ ₹500
+TXN100686,2026-09-01,04:21:46,UPI,Success,Nagpur,Entertainment,1693.91,Sep,9,Tuesday,1,0,₹501–₹2K
+TXN100687,2026-05-04,15:10:42,UPI,Failed,Delhi,Bills,50.0,May,5,Monday,0,1,≤ ₹500
+TXN100688,2026-06-30,09:10:48,UPI,Success,Hyderabad,Other,178.86,Jun,6,Tuesday,1,0,≤ ₹500
+TXN100689,2026-05-16,01:13:45,Debit Card,Pending,Nashik,Bills,405.33,May,5,Saturday,0,0,≤ ₹500
+TXN100690,2026-08-26,10:28:18,Wallet,Success,Nagpur,Healthcare,160.33,Aug,8,Wednesday,1,0,≤ ₹500
+TXN100691,2026-10-30,04:20:04,Net Banking,Success,Nagpur,Education,323.9,Oct,10,Friday,1,0,≤ ₹500
+TXN100692,2026-08-30,05:23:55,Wallet,Success,Bengaluru,Food,362.43,Aug,8,Sunday,1,0,≤ ₹500
+TXN100693,2026-10-11,21:43:29,Net Banking,Success,Pune,Food,230.67,Oct,10,Sunday,1,0,≤ ₹500
+TXN100694,2026-10-15,17:14:05,Wallet,Success,Bengaluru,Shopping,426.15,Oct,10,Thursday,1,0,≤ ₹500
+TXN100695,2026-01-28,03:54:55,UPI,Success,Delhi,Other,688.09,Jan,1,Wednesday,1,0,₹501–₹2K
+TXN100696,2026-03-19,20:45:59,UPI,Success,Aurangabad,Other,330.03,Mar,3,Thursday,1,0,≤ ₹500
+TXN100697,2026-08-08,13:10:26,UPI,Success,Kolhapur,Travel,274.45,Aug,8,Saturday,1,0,≤ ₹500
+TXN100698,2026-06-29,20:18:46,UPI,Success,Bengaluru,Other,350.41,Jun,6,Monday,1,0,≤ ₹500
+TXN100699,2026-01-16,17:11:02,UPI,Success,Delhi,Food,400.89,Jan,1,Friday,1,0,≤ ₹500
+TXN100700,2026-01-29,08:16:05,UPI,Success,Nashik,Other,91.9,Jan,1,Thursday,1,0,≤ ₹500
+TXN100701,2026-06-08,12:21:16,Wallet,Success,Pune,Shopping,597.24,Jun,6,Monday,1,0,₹501–₹2K
+TXN100702,2026-07-07,12:07:39,UPI,Success,Thane,Food,274.97,Jul,7,Tuesday,1,0,≤ ₹500
+TXN100703,2026-02-20,17:00:08,Wallet,Pending,Mumbai,Entertainment,1178.86,Feb,2,Friday,0,0,₹501–₹2K
+TXN100704,2026-02-22,05:26:02,Net Banking,Success,Pune,Travel,666.74,Feb,2,Sunday,1,0,₹501–₹2K
+TXN100705,2026-02-09,07:42:40,Credit Card,Success,Hyderabad,Bills,1090.68,Feb,2,Monday,1,0,₹501–₹2K
+TXN100706,2026-06-21,05:18:46,Credit Card,Success,Aurangabad,Entertainment,170.83,Jun,6,Sunday,1,0,≤ ₹500
+TXN100707,2026-01-03,07:51:44,UPI,Success,Thane,Bills,294.22,Jan,1,Saturday,1,0,≤ ₹500
+TXN100708,2026-06-24,03:22:47,Credit Card,Success,Nashik,Entertainment,140.32,Jun,6,Wednesday,1,0,≤ ₹500
+TXN100709,2026-05-25,00:54:48,UPI,Failed,Mumbai,Shopping,221.54,May,5,Monday,0,1,≤ ₹500
+TXN100710,2026-05-22,22:14:36,Wallet,Success,Pune,Food,1169.45,May,5,Friday,1,0,₹501–₹2K
+TXN100711,2026-07-26,01:32:31,UPI,Success,Nagpur,Bills,1428.48,Jul,7,Sunday,1,0,₹501–₹2K
+TXN100712,2026-06-08,21:45:51,UPI,Success,Pune,Education,152.03,Jun,6,Monday,1,0,≤ ₹500
+TXN100713,2026-08-10,00:03:20,Credit Card,Success,Aurangabad,Shopping,273.27,Aug,8,Monday,1,0,≤ ₹500
+TXN100714,2026-08-21,18:55:05,Credit Card,Success,Nagpur,Shopping,378.13,Aug,8,Friday,1,0,≤ ₹500
+TXN100715,2026-10-07,07:21:45,UPI,Success,Kolhapur,Healthcare,663.66,Oct,10,Wednesday,1,0,₹501–₹2K
+TXN100716,2026-08-31,12:29:16,Debit Card,Success,Kolhapur,Travel,90.39,Aug,8,Monday,1,0,≤ ₹500
+TXN100717,2026-06-07,06:37:58,UPI,Failed,Nagpur,Travel,103.28,Jun,6,Sunday,0,1,≤ ₹500
+TXN100718,2026-05-30,11:38:24,Credit Card,Success,Aurangabad,Shopping,611.66,May,5,Saturday,1,0,₹501–₹2K
+TXN100719,2026-03-13,10:01:51,UPI,Success,Pune,Food,76.96,Mar,3,Friday,1,0,≤ ₹500
+TXN100720,2026-07-02,12:52:02,UPI,Success,Nagpur,Food,275.95,Jul,7,Thursday,1,0,≤ ₹500
+TXN100721,2026-02-12,09:37:39,UPI,Success,Hyderabad,Healthcare,463.02,Feb,2,Thursday,1,0,≤ ₹500
+TXN100722,2026-10-11,12:59:26,UPI,Success,Hyderabad,Food,574.39,Oct,10,Sunday,1,0,₹501–₹2K
+TXN100723,2026-09-14,19:28:27,UPI,Success,Aurangabad,Shopping,357.64,Sep,9,Monday,1,0,≤ ₹500
+TXN100724,2026-02-06,10:36:15,UPI,Success,Hyderabad,Other,295.63,Feb,2,Friday,1,0,≤ ₹500
+TXN100725,2026-08-27,08:26:58,UPI,Success,Kolhapur,Bills,827.07,Aug,8,Thursday,1,0,₹501–₹2K
+TXN100726,2026-02-05,03:53:23,UPI,Success,Mumbai,Healthcare,514.1,Feb,2,Thursday,1,0,₹501–₹2K
+TXN100727,2026-08-08,08:49:51,Debit Card,Success,Bengaluru,Bills,232.77,Aug,8,Saturday,1,0,≤ ₹500
+TXN100728,2026-01-27,03:54:25,UPI,Success,Aurangabad,Other,416.57,Jan,1,Tuesday,1,0,≤ ₹500
+TXN100729,2026-05-29,04:30:02,Credit Card,Success,Thane,Entertainment,558.75,May,5,Friday,1,0,₹501–₹2K
+TXN100730,2026-07-19,22:47:52,Wallet,Failed,Thane,Travel,1738.02,Jul,7,Sunday,0,1,₹501–₹2K
+TXN100731,2026-08-10,02:21:11,UPI,Success,Nagpur,Healthcare,787.12,Aug,8,Monday,1,0,₹501–₹2K
+TXN100732,2026-05-08,11:27:16,Wallet,Failed,Delhi,Travel,1132.72,May,5,Friday,0,1,₹501–₹2K
+TXN100733,2026-10-08,20:45:51,UPI,Success,Kolhapur,Other,240.08,Oct,10,Thursday,1,0,≤ ₹500
+TXN100734,2026-08-24,22:04:53,UPI,Success,Nagpur,Bills,258.38,Aug,8,Monday,1,0,≤ ₹500
+TXN100735,2026-03-05,03:42:55,Credit Card,Success,Nashik,Entertainment,330.28,Mar,3,Thursday,1,0,≤ ₹500
+TXN100736,2026-07-24,03:00:25,Net Banking,Success,Delhi,Education,357.08,Jul,7,Friday,1,0,≤ ₹500
+TXN100737,2026-08-11,08:34:45,Net Banking,Success,Nashik,Healthcare,171.26,Aug,8,Tuesday,1,0,≤ ₹500
+TXN100738,2026-04-12,13:28:19,UPI,Success,Mumbai,Bills,1183.28,Apr,4,Sunday,1,0,₹501–₹2K
+TXN100739,2026-08-13,23:28:44,Net Banking,Success,Bengaluru,Entertainment,854.78,Aug,8,Thursday,1,0,₹501–₹2K
+TXN100740,2026-10-01,04:29:30,UPI,Success,Nagpur,Healthcare,311.12,Oct,10,Thursday,1,0,≤ ₹500
+TXN100741,2026-09-06,03:29:03,UPI,Success,Thane,Entertainment,696.07,Sep,9,Sunday,1,0,₹501–₹2K
+TXN100742,2026-08-20,06:24:25,UPI,Success,Delhi,Entertainment,487.58,Aug,8,Thursday,1,0,≤ ₹500
+TXN100743,2026-07-12,20:27:28,Wallet,Success,Bengaluru,Shopping,743.86,Jul,7,Sunday,1,0,₹501–₹2K
+TXN100744,2026-03-24,00:34:15,UPI,Success,Thane,Other,128.68,Mar,3,Tuesday,1,0,≤ ₹500
+TXN100745,2026-08-30,09:45:22,Net Banking,Success,Delhi,Entertainment,356.45,Aug,8,Sunday,1,0,≤ ₹500
+TXN100746,2026-04-21,02:33:30,Debit Card,Failed,Bengaluru,Shopping,384.01,Apr,4,Tuesday,0,1,≤ ₹500
+TXN100747,2026-06-11,03:38:02,Credit Card,Success,Hyderabad,Other,685.46,Jun,6,Thursday,1,0,₹501–₹2K
+TXN100748,2026-04-06,22:50:09,Credit Card,Failed,Pune,Education,236.47,Apr,4,Monday,0,1,≤ ₹500
+TXN100749,2026-04-06,00:59:46,Net Banking,Success,Delhi,Bills,50.0,Apr,4,Monday,1,0,≤ ₹500
+TXN100750,2026-02-17,07:06:21,UPI,Success,Mumbai,Shopping,160.86,Feb,2,Tuesday,1,0,≤ ₹500
+TXN100751,2026-10-20,21:42:36,UPI,Success,Bengaluru,Bills,383.03,Oct,10,Tuesday,1,0,≤ ₹500
+TXN100752,2026-02-14,14:13:33,Debit Card,Success,Pune,Food,425.94,Feb,2,Saturday,1,0,≤ ₹500
+TXN100753,2026-01-27,01:11:33,UPI,Success,Nashik,Healthcare,1687.81,Jan,1,Tuesday,1,0,₹501–₹2K
+TXN100754,2026-10-12,11:47:24,UPI,Success,Mumbai,Healthcare,662.05,Oct,10,Monday,1,0,₹501–₹2K
+TXN100755,2026-06-18,23:04:28,UPI,Failed,Thane,Healthcare,432.38,Jun,6,Thursday,0,1,≤ ₹500
+TXN100756,2026-05-14,09:50:49,UPI,Success,Pune,Education,392.47,May,5,Thursday,1,0,≤ ₹500
+TXN100757,2026-08-13,12:46:57,UPI,Failed,Pune,Bills,1031.28,Aug,8,Thursday,0,1,₹501–₹2K
+TXN100758,2026-04-27,12:59:15,UPI,Success,Kolhapur,Healthcare,244.3,Apr,4,Monday,1,0,≤ ₹500
+TXN100759,2026-02-08,15:40:40,Wallet,Success,Hyderabad,Entertainment,358.08,Feb,2,Sunday,1,0,≤ ₹500
+TXN100760,2026-08-10,04:52:58,UPI,Success,Kolhapur,Food,159.83,Aug,8,Monday,1,0,≤ ₹500
+TXN100761,2026-02-23,20:07:00,Wallet,Success,Aurangabad,Travel,1347.59,Feb,2,Monday,1,0,₹501–₹2K
+TXN100762,2026-06-18,23:53:47,Wallet,Success,Thane,Other,563.19,Jun,6,Thursday,1,0,₹501–₹2K
+TXN100763,2026-10-16,03:09:29,UPI,Success,Kolhapur,Entertainment,221.1,Oct,10,Friday,1,0,≤ ₹500
+TXN100764,2026-10-12,19:18:58,Credit Card,Pending,Nagpur,Other,366.03,Oct,10,Monday,0,0,≤ ₹500
+TXN100765,2026-04-20,19:07:34,Debit Card,Success,Kolhapur,Shopping,622.16,Apr,4,Monday,1,0,₹501–₹2K
+TXN100766,2026-08-26,17:24:50,Credit Card,Success,Pune,Travel,326.0,Aug,8,Wednesday,1,0,≤ ₹500
+TXN100767,2026-07-06,08:44:09,UPI,Success,Nashik,Shopping,256.13,Jul,7,Monday,1,0,≤ ₹500
+TXN100768,2026-05-26,11:16:08,UPI,Success,Thane,Entertainment,231.34,May,5,Tuesday,1,0,≤ ₹500
+TXN100769,2026-02-12,20:49:55,UPI,Success,Nagpur,Education,538.14,Feb,2,Thursday,1,0,₹501–₹2K
+TXN100770,2026-04-25,03:36:31,Debit Card,Success,Pune,Shopping,297.57,Apr,4,Saturday,1,0,≤ ₹500
+TXN100771,2026-07-18,19:37:33,Wallet,Success,Mumbai,Food,274.32,Jul,7,Saturday,1,0,≤ ₹500
+TXN100772,2026-10-27,22:56:10,Credit Card,Success,Bengaluru,Healthcare,129.59,Oct,10,Tuesday,1,0,≤ ₹500
+TXN100773,2026-01-02,16:25:13,Credit Card,Success,Nagpur,Entertainment,430.95,Jan,1,Friday,1,0,≤ ₹500
+TXN100774,2026-08-07,08:20:49,Wallet,Success,Pune,Other,345.83,Aug,8,Friday,1,0,≤ ₹500
+TXN100775,2026-09-15,13:59:18,Credit Card,Success,Delhi,Other,306.92,Sep,9,Tuesday,1,0,≤ ₹500
+TXN100776,2026-10-17,01:33:35,UPI,Success,Kolhapur,Entertainment,477.69,Oct,10,Saturday,1,0,≤ ₹500
+TXN100777,2026-05-09,22:36:18,Net Banking,Success,Aurangabad,Entertainment,761.89,May,5,Saturday,1,0,₹501–₹2K
+TXN100778,2026-02-06,08:17:15,UPI,Success,Bengaluru,Entertainment,732.4,Feb,2,Friday,1,0,₹501–₹2K
+TXN100779,2026-03-24,01:12:09,UPI,Failed,Nagpur,Other,645.37,Mar,3,Tuesday,0,1,₹501–₹2K
+TXN100780,2026-09-16,19:10:55,Debit Card,Success,Kolhapur,Travel,328.79,Sep,9,Wednesday,1,0,≤ ₹500
+TXN100781,2026-09-24,15:13:56,Wallet,Success,Delhi,Entertainment,249.15,Sep,9,Thursday,1,0,≤ ₹500
+TXN100782,2026-07-13,14:11:06,UPI,Success,Thane,Entertainment,166.11,Jul,7,Monday,1,0,≤ ₹500
+TXN100783,2026-02-07,01:44:21,Debit Card,Success,Nashik,Food,243.67,Feb,2,Saturday,1,0,≤ ₹500
+TXN100784,2026-02-07,18:03:33,UPI,Success,Thane,Healthcare,410.22,Feb,2,Saturday,1,0,≤ ₹500
+TXN100785,2026-05-26,15:37:22,UPI,Success,Delhi,Bills,206.78,May,5,Tuesday,1,0,≤ ₹500
+TXN100786,2026-06-28,19:56:43,UPI,Failed,Mumbai,Shopping,437.75,Jun,6,Sunday,0,1,≤ ₹500
+TXN100787,2026-01-10,19:45:15,Credit Card,Success,Mumbai,Shopping,177.57,Jan,1,Saturday,1,0,≤ ₹500
+TXN100788,2026-07-28,05:24:03,Net Banking,Success,Thane,Food,98.31,Jul,7,Tuesday,1,0,≤ ₹500
+TXN100789,2026-06-15,05:03:20,UPI,Success,Mumbai,Other,809.56,Jun,6,Monday,1,0,₹501–₹2K
+TXN100790,2026-01-04,22:50:35,UPI,Success,Bengaluru,Entertainment,269.55,Jan,1,Sunday,1,0,≤ ₹500
+TXN100791,2026-01-30,12:00:10,UPI,Success,Mumbai,Food,198.05,Jan,1,Friday,1,0,≤ ₹500
+TXN100792,2026-05-19,10:40:48,UPI,Success,Hyderabad,Healthcare,159.21,May,5,Tuesday,1,0,≤ ₹500
+TXN100793,2026-08-08,06:40:00,Debit Card,Success,Thane,Healthcare,578.0,Aug,8,Saturday,1,0,₹501–₹2K
+TXN100794,2026-09-08,15:11:04,Credit Card,Success,Aurangabad,Education,1298.12,Sep,9,Tuesday,1,0,₹501–₹2K
+TXN100795,2026-05-12,18:44:30,Credit Card,Success,Nashik,Education,286.4,May,5,Tuesday,1,0,≤ ₹500
+TXN100796,2026-03-31,00:10:30,UPI,Success,Nagpur,Other,335.89,Mar,3,Tuesday,1,0,≤ ₹500
+TXN100797,2026-10-22,13:13:17,Debit Card,Success,Delhi,Education,1003.14,Oct,10,Thursday,1,0,₹501–₹2K
+TXN100798,2026-05-20,23:48:15,UPI,Success,Delhi,Healthcare,86.58,May,5,Wednesday,1,0,≤ ₹500
+TXN100799,2026-04-06,06:58:04,UPI,Success,Nashik,Education,2147.02,Apr,4,Monday,1,0,₹2K–₹5K
+TXN100800,2026-05-15,06:15:39,Wallet,Success,Kolhapur,Travel,3221.12,May,5,Friday,1,0,₹2K–₹5K
+TXN100801,2026-01-04,21:55:22,Net Banking,Success,Hyderabad,Other,50.0,Jan,1,Sunday,1,0,≤ ₹500
+TXN100802,2026-04-02,01:54:07,Wallet,Success,Nashik,Travel,371.34,Apr,4,Thursday,1,0,≤ ₹500
+TXN100803,2026-06-06,09:46:23,Wallet,Success,Thane,Entertainment,218.96,Jun,6,Saturday,1,0,≤ ₹500
+TXN100804,2026-10-07,10:08:56,Credit Card,Success,Mumbai,Education,322.13,Oct,10,Wednesday,1,0,≤ ₹500
+TXN100805,2026-08-13,19:17:15,Wallet,Success,Bengaluru,Healthcare,282.7,Aug,8,Thursday,1,0,≤ ₹500
+TXN100806,2026-08-26,03:40:53,UPI,Success,Mumbai,Entertainment,804.32,Aug,8,Wednesday,1,0,₹501–₹2K
+TXN100807,2026-06-15,10:59:15,UPI,Failed,Nashik,Healthcare,366.62,Jun,6,Monday,0,1,≤ ₹500
+TXN100808,2026-02-03,03:48:11,UPI,Success,Aurangabad,Education,186.0,Feb,2,Tuesday,1,0,≤ ₹500
+TXN100809,2026-04-29,18:25:15,UPI,Failed,Nagpur,Education,348.5,Apr,4,Wednesday,0,1,≤ ₹500
+TXN100810,2026-10-31,15:14:19,UPI,Success,Mumbai,Education,624.88,Oct,10,Saturday,1,0,₹501–₹2K
+TXN100811,2026-01-14,11:57:07,UPI,Success,Thane,Bills,147.5,Jan,1,Wednesday,1,0,≤ ₹500
+TXN100812,2026-09-25,09:16:35,Credit Card,Success,Pune,Healthcare,99.55,Sep,9,Friday,1,0,≤ ₹500
+TXN100813,2026-07-28,03:20:20,Net Banking,Success,Hyderabad,Other,2194.77,Jul,7,Tuesday,1,0,₹2K–₹5K
+TXN100814,2026-03-28,22:57:43,Debit Card,Success,Pune,Healthcare,233.68,Mar,3,Saturday,1,0,≤ ₹500
+TXN100815,2026-08-25,15:33:29,UPI,Success,Nagpur,Entertainment,358.97,Aug,8,Tuesday,1,0,≤ ₹500
+TXN100816,2026-09-12,07:15:26,Credit Card,Success,Hyderabad,Entertainment,287.69,Sep,9,Saturday,1,0,≤ ₹500
+TXN100817,2026-01-14,09:00:28,UPI,Success,Mumbai,Bills,642.83,Jan,1,Wednesday,1,0,₹501–₹2K
+TXN100818,2026-02-02,17:25:09,UPI,Success,Pune,Food,1820.51,Feb,2,Monday,1,0,₹501–₹2K
+TXN100819,2026-07-22,17:59:42,UPI,Success,Delhi,Bills,660.46,Jul,7,Wednesday,1,0,₹501–₹2K
+TXN100820,2026-10-31,11:25:06,UPI,Success,Pune,Entertainment,110.98,Oct,10,Saturday,1,0,≤ ₹500
+TXN100821,2026-01-08,07:41:43,UPI,Success,Bengaluru,Entertainment,124.4,Jan,1,Thursday,1,0,≤ ₹500
+TXN100822,2026-07-22,15:15:59,Net Banking,Success,Aurangabad,Education,287.4,Jul,7,Wednesday,1,0,≤ ₹500
+TXN100823,2026-02-11,15:46:45,Credit Card,Success,Bengaluru,Entertainment,321.18,Feb,2,Wednesday,1,0,≤ ₹500
+TXN100824,2026-07-17,14:46:27,Credit Card,Success,Nashik,Food,93.35,Jul,7,Friday,1,0,≤ ₹500
+TXN100825,2026-07-09,01:36:18,UPI,Success,Mumbai,Healthcare,809.52,Jul,7,Thursday,1,0,₹501–₹2K
+TXN100826,2026-01-28,11:46:52,Net Banking,Success,Hyderabad,Healthcare,160.23,Jan,1,Wednesday,1,0,≤ ₹500
+TXN100827,2026-07-26,14:34:15,Credit Card,Success,Delhi,Education,1435.55,Jul,7,Sunday,1,0,₹501–₹2K
+TXN100828,2026-09-30,22:22:28,UPI,Success,Hyderabad,Healthcare,1896.07,Sep,9,Wednesday,1,0,₹501–₹2K
+TXN100829,2026-09-20,12:44:46,Credit Card,Success,Nagpur,Travel,326.68,Sep,9,Sunday,1,0,≤ ₹500
+TXN100830,2026-01-09,08:50:55,Debit Card,Success,Aurangabad,Education,585.89,Jan,1,Friday,1,0,₹501–₹2K
+TXN100831,2026-03-16,13:50:55,UPI,Success,Kolhapur,Education,141.58,Mar,3,Monday,1,0,≤ ₹500
+TXN100832,2026-03-15,04:12:05,UPI,Failed,Aurangabad,Entertainment,685.48,Mar,3,Sunday,0,1,₹501–₹2K
+TXN100833,2026-05-18,02:40:53,Debit Card,Success,Nashik,Shopping,264.16,May,5,Monday,1,0,≤ ₹500
+TXN100834,2026-02-13,16:00:06,UPI,Success,Nagpur,Bills,160.11,Feb,2,Friday,1,0,≤ ₹500
+TXN100835,2026-09-17,23:34:35,UPI,Success,Thane,Travel,315.47,Sep,9,Thursday,1,0,≤ ₹500
+TXN100836,2026-08-25,20:34:55,UPI,Success,Pune,Shopping,271.54,Aug,8,Tuesday,1,0,≤ ₹500
+TXN100837,2026-09-03,14:21:39,Wallet,Success,Nagpur,Bills,306.01,Sep,9,Thursday,1,0,≤ ₹500
+TXN100838,2026-03-02,00:59:56,UPI,Success,Nashik,Bills,904.36,Mar,3,Monday,1,0,₹501–₹2K
+TXN100839,2026-01-05,23:52:20,UPI,Success,Pune,Bills,206.95,Jan,1,Monday,1,0,≤ ₹500
+TXN100840,2026-10-04,10:02:18,UPI,Success,Mumbai,Travel,1763.0,Oct,10,Sunday,1,0,₹501–₹2K
+TXN100841,2026-03-29,06:12:19,Net Banking,Success,Aurangabad,Education,130.8,Mar,3,Sunday,1,0,≤ ₹500
+TXN100842,2026-07-19,21:12:21,Debit Card,Success,Mumbai,Healthcare,1592.59,Jul,7,Sunday,1,0,₹501–₹2K
+TXN100843,2026-10-04,17:53:40,Wallet,Failed,Nagpur,Bills,170.03,Oct,10,Sunday,0,1,≤ ₹500
+TXN100844,2026-01-11,17:31:27,UPI,Failed,Kolhapur,Entertainment,403.08,Jan,1,Sunday,0,1,≤ ₹500
+TXN100845,2026-01-02,06:43:44,UPI,Success,Bengaluru,Travel,265.96,Jan,1,Friday,1,0,≤ ₹500
+TXN100846,2026-01-02,23:48:24,Debit Card,Success,Pune,Healthcare,301.22,Jan,1,Friday,1,0,≤ ₹500
+TXN100847,2026-02-17,10:46:18,UPI,Success,Aurangabad,Food,797.24,Feb,2,Tuesday,1,0,₹501–₹2K
+TXN100848,2026-01-16,12:05:11,Net Banking,Success,Mumbai,Shopping,1443.54,Jan,1,Friday,1,0,₹501–₹2K
+TXN100849,2026-09-07,18:08:33,Net Banking,Success,Aurangabad,Travel,1109.81,Sep,9,Monday,1,0,₹501–₹2K
+TXN100850,2026-07-04,15:23:53,UPI,Success,Aurangabad,Bills,285.97,Jul,7,Saturday,1,0,≤ ₹500
+TXN100851,2026-10-25,04:20:51,Wallet,Success,Delhi,Travel,471.83,Oct,10,Sunday,1,0,≤ ₹500
+TXN100852,2026-09-01,07:44:15,Debit Card,Pending,Aurangabad,Shopping,207.52,Sep,9,Tuesday,0,0,≤ ₹500
+TXN100853,2026-10-20,08:09:28,UPI,Success,Hyderabad,Travel,173.67,Oct,10,Tuesday,1,0,≤ ₹500
+TXN100854,2026-03-14,22:22:42,Debit Card,Success,Mumbai,Healthcare,152.27,Mar,3,Saturday,1,0,≤ ₹500
+TXN100855,2026-03-29,17:14:36,UPI,Success,Pune,Healthcare,278.12,Mar,3,Sunday,1,0,≤ ₹500
+TXN100856,2026-09-16,08:11:04,Net Banking,Success,Pune,Shopping,498.78,Sep,9,Wednesday,1,0,≤ ₹500
+TXN100857,2026-03-16,17:10:35,UPI,Success,Nagpur,Bills,79.44,Mar,3,Monday,1,0,≤ ₹500
+TXN100858,2026-01-18,17:11:02,UPI,Success,Mumbai,Education,387.84,Jan,1,Sunday,1,0,≤ ₹500
+TXN100859,2026-07-23,09:33:06,Debit Card,Success,Pune,Education,1463.55,Jul,7,Thursday,1,0,₹501–₹2K
+TXN100860,2026-09-01,09:24:39,UPI,Success,Nashik,Entertainment,1046.94,Sep,9,Tuesday,1,0,₹501–₹2K
+TXN100861,2026-10-22,21:26:06,UPI,Success,Hyderabad,Travel,245.33,Oct,10,Thursday,1,0,≤ ₹500
+TXN100862,2026-10-10,13:28:20,Credit Card,Success,Bengaluru,Healthcare,123.06,Oct,10,Saturday,1,0,≤ ₹500
+TXN100863,2026-02-06,03:44:35,UPI,Success,Pune,Other,596.37,Feb,2,Friday,1,0,₹501–₹2K
+TXN100864,2026-08-23,17:51:39,UPI,Pending,Hyderabad,Bills,56.27,Aug,8,Sunday,0,0,≤ ₹500
+TXN100865,2026-09-15,14:31:26,UPI,Success,Nashik,Entertainment,1036.53,Sep,9,Tuesday,1,0,₹501–₹2K
+TXN100866,2026-08-01,12:38:05,UPI,Success,Aurangabad,Bills,336.45,Aug,8,Saturday,1,0,≤ ₹500
+TXN100867,2026-09-07,17:44:47,UPI,Success,Nagpur,Bills,1913.34,Sep,9,Monday,1,0,₹501–₹2K
+TXN100868,2026-09-12,21:41:56,Net Banking,Success,Aurangabad,Healthcare,92.95,Sep,9,Saturday,1,0,≤ ₹500
+TXN100869,2026-05-16,07:08:53,Wallet,Pending,Delhi,Education,880.44,May,5,Saturday,0,0,₹501–₹2K
+TXN100870,2026-01-13,10:58:44,UPI,Success,Delhi,Education,370.39,Jan,1,Tuesday,1,0,≤ ₹500
+TXN100871,2026-05-19,04:09:24,Wallet,Failed,Kolhapur,Shopping,304.48,May,5,Tuesday,0,1,≤ ₹500
+TXN100872,2026-03-03,15:24:52,Debit Card,Success,Thane,Food,125.92,Mar,3,Tuesday,1,0,≤ ₹500
+TXN100873,2026-02-04,09:39:29,Credit Card,Success,Delhi,Other,669.4,Feb,2,Wednesday,1,0,₹501–₹2K
+TXN100874,2026-02-07,08:24:08,Credit Card,Success,Mumbai,Entertainment,716.74,Feb,2,Saturday,1,0,₹501–₹2K
+TXN100875,2026-08-01,16:14:51,Credit Card,Success,Nagpur,Other,1839.7,Aug,8,Saturday,1,0,₹501–₹2K
+TXN100876,2026-06-03,09:55:19,Net Banking,Success,Mumbai,Education,950.36,Jun,6,Wednesday,1,0,₹501–₹2K
+TXN100877,2026-06-14,11:04:56,Debit Card,Success,Delhi,Other,243.52,Jun,6,Sunday,1,0,≤ ₹500
+TXN100878,2026-08-15,10:14:22,Debit Card,Success,Aurangabad,Travel,171.87,Aug,8,Saturday,1,0,≤ ₹500
+TXN100879,2026-06-16,06:59:52,UPI,Success,Thane,Food,126.06,Jun,6,Tuesday,1,0,≤ ₹500
+TXN100880,2026-07-11,03:43:32,UPI,Pending,Kolhapur,Shopping,1411.26,Jul,7,Saturday,0,0,₹501–₹2K
+TXN100881,2026-01-27,19:05:28,Credit Card,Success,Nashik,Bills,208.21,Jan,1,Tuesday,1,0,≤ ₹500
+TXN100882,2026-09-16,02:45:17,UPI,Success,Mumbai,Travel,1419.69,Sep,9,Wednesday,1,0,₹501–₹2K
+TXN100883,2026-05-17,07:58:50,UPI,Success,Hyderabad,Other,630.37,May,5,Sunday,1,0,₹501–₹2K
+TXN100884,2026-02-17,16:05:03,UPI,Success,Nashik,Bills,534.01,Feb,2,Tuesday,1,0,₹501–₹2K
+TXN100885,2026-09-05,03:24:28,UPI,Success,Mumbai,Education,310.8,Sep,9,Saturday,1,0,≤ ₹500
+TXN100886,2026-08-12,15:28:22,Debit Card,Success,Nagpur,Bills,707.38,Aug,8,Wednesday,1,0,₹501–₹2K
+TXN100887,2026-01-17,17:07:32,Debit Card,Success,Hyderabad,Healthcare,398.16,Jan,1,Saturday,1,0,≤ ₹500
+TXN100888,2026-02-28,15:12:15,UPI,Success,Nashik,Education,294.76,Feb,2,Saturday,1,0,≤ ₹500
+TXN100889,2026-01-05,07:10:39,UPI,Success,Hyderabad,Shopping,728.95,Jan,1,Monday,1,0,₹501–₹2K
+TXN100890,2026-03-24,00:11:23,UPI,Success,Aurangabad,Travel,356.96,Mar,3,Tuesday,1,0,≤ ₹500
+TXN100891,2026-01-31,21:24:11,UPI,Success,Bengaluru,Food,204.67,Jan,1,Saturday,1,0,≤ ₹500
+TXN100892,2026-08-04,07:27:11,Credit Card,Success,Thane,Other,671.73,Aug,8,Tuesday,1,0,₹501–₹2K
+TXN100893,2026-06-08,19:14:41,Debit Card,Pending,Pune,Healthcare,382.07,Jun,6,Monday,0,0,≤ ₹500
+TXN100894,2026-10-25,04:17:15,Debit Card,Success,Kolhapur,Other,611.29,Oct,10,Sunday,1,0,₹501–₹2K
+TXN100895,2026-08-16,03:11:18,Debit Card,Success,Aurangabad,Other,274.3,Aug,8,Sunday,1,0,≤ ₹500
+TXN100896,2026-07-05,18:47:37,Wallet,Success,Nashik,Shopping,144.35,Jul,7,Sunday,1,0,≤ ₹500
+TXN100897,2026-06-04,22:12:19,Credit Card,Success,Kolhapur,Healthcare,1763.07,Jun,6,Thursday,1,0,₹501–₹2K
+TXN100898,2026-01-17,20:54:23,Debit Card,Success,Mumbai,Food,1502.1,Jan,1,Saturday,1,0,₹501–₹2K
+TXN100899,2026-01-22,18:32:14,UPI,Success,Thane,Other,855.1,Jan,1,Thursday,1,0,₹501–₹2K
+TXN100900,2026-07-07,05:48:20,UPI,Success,Bengaluru,Entertainment,290.14,Jul,7,Tuesday,1,0,≤ ₹500
+TXN100901,2026-01-02,21:38:41,Wallet,Success,Pune,Healthcare,312.54,Jan,1,Friday,1,0,≤ ₹500
+TXN100902,2026-01-13,16:15:32,UPI,Success,Aurangabad,Other,1306.33,Jan,1,Tuesday,1,0,₹501–₹2K
+TXN100903,2026-03-08,04:36:59,UPI,Success,Thane,Entertainment,298.64,Mar,3,Sunday,1,0,≤ ₹500
+TXN100904,2026-09-26,03:16:46,Wallet,Success,Pune,Entertainment,235.65,Sep,9,Saturday,1,0,≤ ₹500
+TXN100905,2026-05-20,20:07:01,Credit Card,Success,Nagpur,Food,1981.08,May,5,Wednesday,1,0,₹501–₹2K
+TXN100906,2026-08-04,06:15:22,UPI,Success,Nashik,Food,387.41,Aug,8,Tuesday,1,0,≤ ₹500
+TXN100907,2026-05-06,18:16:17,UPI,Success,Pune,Other,1813.77,May,5,Wednesday,1,0,₹501–₹2K
+TXN100908,2026-02-22,03:08:35,UPI,Success,Bengaluru,Bills,122.9,Feb,2,Sunday,1,0,≤ ₹500
+TXN100909,2026-04-23,06:01:15,Debit Card,Success,Aurangabad,Travel,626.69,Apr,4,Thursday,1,0,₹501–₹2K
+TXN100910,2026-01-28,06:56:57,UPI,Success,Delhi,Food,2345.89,Jan,1,Wednesday,1,0,₹2K–₹5K
+TXN100911,2026-08-23,06:30:17,Wallet,Success,Kolhapur,Education,413.76,Aug,8,Sunday,1,0,≤ ₹500
+TXN100912,2026-02-25,16:24:31,Wallet,Success,Bengaluru,Entertainment,322.34,Feb,2,Wednesday,1,0,≤ ₹500
+TXN100913,2026-04-25,21:55:07,Debit Card,Failed,Hyderabad,Entertainment,149.52,Apr,4,Saturday,0,1,≤ ₹500
+TXN100914,2026-10-25,21:13:54,Debit Card,Success,Thane,Education,1012.31,Oct,10,Sunday,1,0,₹501–₹2K
+TXN100915,2026-06-29,17:24:54,UPI,Success,Nagpur,Healthcare,209.64,Jun,6,Monday,1,0,≤ ₹500
+TXN100916,2026-05-20,04:50:47,UPI,Success,Aurangabad,Education,372.19,May,5,Wednesday,1,0,≤ ₹500
+TXN100917,2026-06-15,23:37:21,Credit Card,Success,Bengaluru,Travel,141.27,Jun,6,Monday,1,0,≤ ₹500
+TXN100918,2026-08-27,13:23:03,UPI,Success,Aurangabad,Education,1515.29,Aug,8,Thursday,1,0,₹501–₹2K
+TXN100919,2026-03-19,13:15:42,UPI,Success,Kolhapur,Other,1076.7,Mar,3,Thursday,1,0,₹501–₹2K
+TXN100920,2026-07-13,16:02:25,UPI,Success,Mumbai,Bills,392.74,Jul,7,Monday,1,0,≤ ₹500
+TXN100921,2026-09-23,18:05:59,UPI,Success,Hyderabad,Travel,151.26,Sep,9,Wednesday,1,0,≤ ₹500
+TXN100922,2026-06-24,22:09:41,UPI,Success,Thane,Education,1488.5,Jun,6,Wednesday,1,0,₹501–₹2K
+TXN100923,2026-05-16,13:47:32,Credit Card,Success,Nagpur,Education,295.59,May,5,Saturday,1,0,≤ ₹500
+TXN100924,2026-02-14,14:38:59,Net Banking,Success,Kolhapur,Food,157.68,Feb,2,Saturday,1,0,≤ ₹500
+TXN100925,2026-03-17,17:26:48,Debit Card,Success,Aurangabad,Bills,90.22,Mar,3,Tuesday,1,0,≤ ₹500
+TXN100926,2026-10-15,06:46:27,Net Banking,Success,Mumbai,Healthcare,232.97,Oct,10,Thursday,1,0,≤ ₹500
+TXN100927,2026-06-14,07:09:01,UPI,Success,Bengaluru,Healthcare,117.16,Jun,6,Sunday,1,0,≤ ₹500
+TXN100928,2026-04-02,15:12:05,Net Banking,Success,Bengaluru,Healthcare,237.6,Apr,4,Thursday,1,0,≤ ₹500
+TXN100929,2026-05-08,01:23:26,Debit Card,Success,Bengaluru,Other,759.57,May,5,Friday,1,0,₹501–₹2K
+TXN100930,2026-06-25,07:55:33,UPI,Success,Nagpur,Healthcare,293.22,Jun,6,Thursday,1,0,≤ ₹500
+TXN100931,2026-06-13,17:36:01,Wallet,Success,Nashik,Education,545.85,Jun,6,Saturday,1,0,₹501–₹2K
+TXN100932,2026-08-01,23:51:07,UPI,Success,Pune,Bills,218.15,Aug,8,Saturday,1,0,≤ ₹500
+TXN100933,2026-03-20,12:14:42,UPI,Success,Delhi,Bills,426.41,Mar,3,Friday,1,0,≤ ₹500
+TXN100934,2026-07-17,09:50:45,UPI,Success,Nagpur,Entertainment,2064.75,Jul,7,Friday,1,0,₹2K–₹5K
+TXN100935,2026-05-15,10:04:01,UPI,Success,Bengaluru,Travel,300.0,May,5,Friday,1,0,≤ ₹500
+TXN100936,2026-10-13,16:13:30,UPI,Success,Bengaluru,Healthcare,559.34,Oct,10,Tuesday,1,0,₹501–₹2K
+TXN100937,2026-02-18,13:31:04,Debit Card,Success,Mumbai,Food,106.62,Feb,2,Wednesday,1,0,≤ ₹500
+TXN100938,2026-02-15,00:03:43,Net Banking,Success,Hyderabad,Shopping,1468.64,Feb,2,Sunday,1,0,₹501–₹2K
+TXN100939,2026-05-21,12:51:50,UPI,Success,Mumbai,Shopping,268.91,May,5,Thursday,1,0,≤ ₹500
+TXN100940,2026-06-04,09:52:52,Debit Card,Success,Aurangabad,Shopping,985.31,Jun,6,Thursday,1,0,₹501–₹2K
+TXN100941,2026-07-30,16:32:35,UPI,Success,Aurangabad,Education,363.32,Jul,7,Thursday,1,0,≤ ₹500
+TXN100942,2026-05-03,21:18:37,Net Banking,Success,Hyderabad,Healthcare,678.47,May,5,Sunday,1,0,₹501–₹2K
+TXN100943,2026-10-05,23:05:55,UPI,Pending,Thane,Education,713.63,Oct,10,Monday,0,0,₹501–₹2K
+TXN100944,2026-05-25,14:37:36,UPI,Success,Bengaluru,Bills,274.63,May,5,Monday,1,0,≤ ₹500
+TXN100945,2026-02-09,08:32:26,Debit Card,Success,Kolhapur,Education,1020.57,Feb,2,Monday,1,0,₹501–₹2K
+TXN100946,2026-02-06,10:45:45,Credit Card,Success,Bengaluru,Food,211.63,Feb,2,Friday,1,0,≤ ₹500
+TXN100947,2026-10-23,04:36:35,Net Banking,Pending,Bengaluru,Travel,781.52,Oct,10,Friday,0,0,₹501–₹2K
+TXN100948,2026-02-10,22:07:50,Debit Card,Success,Bengaluru,Shopping,289.55,Feb,2,Tuesday,1,0,≤ ₹500
+TXN100949,2026-10-16,20:07:31,Net Banking,Success,Aurangabad,Food,543.01,Oct,10,Friday,1,0,₹501–₹2K
+TXN100950,2026-03-26,20:46:52,UPI,Success,Nagpur,Shopping,272.41,Mar,3,Thursday,1,0,≤ ₹500
+TXN100951,2026-01-29,07:09:02,UPI,Success,Hyderabad,Food,420.94,Jan,1,Thursday,1,0,≤ ₹500
+TXN100952,2026-04-03,07:56:02,UPI,Success,Delhi,Travel,161.82,Apr,4,Friday,1,0,≤ ₹500
+TXN100953,2026-07-06,20:06:05,UPI,Success,Hyderabad,Education,497.91,Jul,7,Monday,1,0,≤ ₹500
+TXN100954,2026-05-11,13:43:33,UPI,Success,Kolhapur,Education,418.87,May,5,Monday,1,0,≤ ₹500
+TXN100955,2026-08-27,16:58:42,Debit Card,Success,Hyderabad,Travel,254.9,Aug,8,Thursday,1,0,≤ ₹500
+TXN100956,2026-07-05,11:26:12,UPI,Success,Delhi,Shopping,384.99,Jul,7,Sunday,1,0,≤ ₹500
+TXN100957,2026-05-02,10:03:09,Debit Card,Success,Delhi,Food,452.1,May,5,Saturday,1,0,≤ ₹500
+TXN100958,2026-07-12,15:52:51,Debit Card,Success,Mumbai,Healthcare,238.91,Jul,7,Sunday,1,0,≤ ₹500
+TXN100959,2026-10-23,19:11:45,Credit Card,Success,Kolhapur,Other,361.61,Oct,10,Friday,1,0,≤ ₹500
+TXN100960,2026-05-06,08:31:38,Credit Card,Success,Delhi,Bills,171.62,May,5,Wednesday,1,0,≤ ₹500
+TXN100961,2026-02-16,19:59:29,UPI,Pending,Delhi,Shopping,2962.75,Feb,2,Monday,0,0,₹2K–₹5K
+TXN100962,2026-05-05,05:44:25,UPI,Success,Hyderabad,Bills,992.52,May,5,Tuesday,1,0,₹501–₹2K
+TXN100963,2026-09-13,09:02:01,Debit Card,Success,Nagpur,Shopping,508.84,Sep,9,Sunday,1,0,₹501–₹2K
+TXN100964,2026-03-08,21:49:11,Debit Card,Success,Nagpur,Shopping,1092.58,Mar,3,Sunday,1,0,₹501–₹2K
+TXN100965,2026-10-16,22:09:53,UPI,Success,Hyderabad,Travel,75.01,Oct,10,Friday,1,0,≤ ₹500
+TXN100966,2026-06-28,22:44:20,UPI,Success,Hyderabad,Entertainment,50.0,Jun,6,Sunday,1,0,≤ ₹500
+TXN100967,2026-07-02,07:37:42,Credit Card,Success,Mumbai,Healthcare,287.32,Jul,7,Thursday,1,0,≤ ₹500
+TXN100968,2026-04-07,20:17:42,Credit Card,Success,Nagpur,Other,124.99,Apr,4,Tuesday,1,0,≤ ₹500
+TXN100969,2026-10-07,22:25:18,UPI,Success,Hyderabad,Bills,329.93,Oct,10,Wednesday,1,0,≤ ₹500
+TXN100970,2026-01-11,23:07:12,UPI,Success,Mumbai,Travel,480.49,Jan,1,Sunday,1,0,≤ ₹500
+TXN100971,2026-04-01,00:59:41,Net Banking,Success,Delhi,Travel,882.14,Apr,4,Wednesday,1,0,₹501–₹2K
+TXN100972,2026-05-08,17:14:05,UPI,Failed,Mumbai,Food,153.31,May,5,Friday,0,1,≤ ₹500
+TXN100973,2026-05-26,23:18:29,Net Banking,Success,Mumbai,Travel,566.62,May,5,Tuesday,1,0,₹501–₹2K
+TXN100974,2026-05-25,18:30:53,UPI,Success,Delhi,Bills,408.39,May,5,Monday,1,0,≤ ₹500
+TXN100975,2026-02-14,05:40:42,Debit Card,Success,Thane,Travel,542.06,Feb,2,Saturday,1,0,₹501–₹2K
+TXN100976,2026-03-10,18:30:45,UPI,Success,Kolhapur,Shopping,259.35,Mar,3,Tuesday,1,0,≤ ₹500
+TXN100977,2026-01-29,02:30:04,UPI,Success,Bengaluru,Healthcare,1307.23,Jan,1,Thursday,1,0,₹501–₹2K
+TXN100978,2026-06-24,11:34:11,Wallet,Success,Nagpur,Entertainment,369.45,Jun,6,Wednesday,1,0,≤ ₹500
+TXN100979,2026-04-17,15:51:16,UPI,Success,Kolhapur,Other,1822.66,Apr,4,Friday,1,0,₹501–₹2K
+TXN100980,2026-06-21,10:23:17,Wallet,Success,Thane,Food,206.06,Jun,6,Sunday,1,0,≤ ₹500
+TXN100981,2026-06-29,16:49:11,UPI,Success,Delhi,Food,758.55,Jun,6,Monday,1,0,₹501–₹2K
+TXN100982,2026-08-02,05:47:58,Net Banking,Success,Nagpur,Other,383.48,Aug,8,Sunday,1,0,≤ ₹500
+TXN100983,2026-06-16,14:57:09,Wallet,Success,Thane,Entertainment,305.34,Jun,6,Tuesday,1,0,≤ ₹500
+TXN100984,2026-07-16,15:54:42,Debit Card,Pending,Aurangabad,Education,690.54,Jul,7,Thursday,0,0,₹501–₹2K
+TXN100985,2026-06-28,15:47:35,UPI,Success,Kolhapur,Bills,312.84,Jun,6,Sunday,1,0,≤ ₹500
+TXN100986,2026-07-18,06:14:36,Credit Card,Success,Bengaluru,Education,50.0,Jul,7,Saturday,1,0,≤ ₹500
+TXN100987,2026-07-07,07:46:12,Debit Card,Success,Nagpur,Education,50.0,Jul,7,Tuesday,1,0,≤ ₹500
+TXN100988,2026-04-07,06:44:18,Wallet,Failed,Thane,Entertainment,1189.82,Apr,4,Tuesday,0,1,₹501–₹2K
+TXN100989,2026-03-16,11:17:36,UPI,Success,Hyderabad,Education,1147.93,Mar,3,Monday,1,0,₹501–₹2K
+TXN100990,2026-08-28,14:40:17,UPI,Failed,Delhi,Food,2006.69,Aug,8,Friday,0,1,₹2K–₹5K
+TXN100991,2026-04-15,08:15:41,UPI,Success,Hyderabad,Healthcare,397.46,Apr,4,Wednesday,1,0,≤ ₹500
+TXN100992,2026-06-16,09:31:02,Credit Card,Success,Kolhapur,Entertainment,134.46,Jun,6,Tuesday,1,0,≤ ₹500
+TXN100993,2026-03-01,06:47:04,Wallet,Success,Nashik,Bills,282.41,Mar,3,Sunday,1,0,≤ ₹500
+TXN100994,2026-05-12,05:11:43,UPI,Success,Hyderabad,Food,407.37,May,5,Tuesday,1,0,≤ ₹500
+TXN100995,2026-06-11,15:20:37,Credit Card,Success,Thane,Shopping,171.4,Jun,6,Thursday,1,0,≤ ₹500
+TXN100996,2026-07-10,19:47:02,Wallet,Pending,Nashik,Entertainment,1638.09,Jul,7,Friday,0,0,₹501–₹2K
+TXN100997,2026-06-10,06:27:53,UPI,Success,Nagpur,Travel,2706.95,Jun,6,Wednesday,1,0,₹2K–₹5K
+TXN100998,2026-04-20,20:57:00,UPI,Success,Nashik,Education,605.79,Apr,4,Monday,1,0,₹501–₹2K
+TXN100999,2026-10-20,13:00:57,Credit Card,Success,Bengaluru,Other,399.72,Oct,10,Tuesday,1,0,≤ ₹500
+TXN101000,2026-06-05,04:43:43,Credit Card,Success,Pune,Food,134.19,Jun,6,Friday,1,0,≤ ₹500
+TXN101001,2026-09-03,08:48:59,UPI,Success,Delhi,Shopping,1501.87,Sep,9,Thursday,1,0,₹501–₹2K
+TXN101002,2026-08-12,00:55:56,Net Banking,Failed,Kolhapur,Entertainment,430.46,Aug,8,Wednesday,0,1,≤ ₹500
+TXN101003,2026-06-19,00:09:18,Debit Card,Pending,Pune,Education,315.52,Jun,6,Friday,0,0,≤ ₹500
+TXN101004,2026-09-27,08:59:45,Wallet,Success,Thane,Food,607.28,Sep,9,Sunday,1,0,₹501–₹2K
+TXN101005,2026-02-08,10:23:12,Net Banking,Success,Delhi,Healthcare,245.22,Feb,2,Sunday,1,0,≤ ₹500
+TXN101006,2026-10-08,19:21:28,Net Banking,Success,Delhi,Shopping,457.07,Oct,10,Thursday,1,0,≤ ₹500
+TXN101007,2026-09-16,03:21:14,Debit Card,Success,Kolhapur,Entertainment,118.38,Sep,9,Wednesday,1,0,≤ ₹500
+TXN101008,2026-06-03,20:38:29,UPI,Success,Nagpur,Entertainment,1016.4,Jun,6,Wednesday,1,0,₹501–₹2K
+TXN101009,2026-08-11,05:39:52,Debit Card,Success,Mumbai,Entertainment,369.17,Aug,8,Tuesday,1,0,≤ ₹500
+TXN101010,2026-06-08,03:28:26,UPI,Pending,Pune,Travel,1080.29,Jun,6,Monday,0,0,₹501–₹2K
+TXN101011,2026-03-23,16:04:05,Credit Card,Success,Nagpur,Bills,340.03,Mar,3,Monday,1,0,≤ ₹500
+TXN101012,2026-09-01,18:59:19,UPI,Success,Thane,Other,359.33,Sep,9,Tuesday,1,0,≤ ₹500
+TXN101013,2026-03-16,14:13:47,Debit Card,Success,Pune,Education,143.96,Mar,3,Monday,1,0,≤ ₹500
+TXN101014,2026-04-06,02:05:31,UPI,Success,Hyderabad,Healthcare,769.54,Apr,4,Monday,1,0,₹501–₹2K
+TXN101015,2026-06-07,02:35:33,UPI,Success,Kolhapur,Shopping,191.62,Jun,6,Sunday,1,0,≤ ₹500
+TXN101016,2026-09-12,09:24:25,UPI,Success,Nashik,Education,266.81,Sep,9,Saturday,1,0,≤ ₹500
+TXN101017,2026-04-27,10:36:17,Debit Card,Success,Hyderabad,Education,403.79,Apr,4,Monday,1,0,≤ ₹500
+TXN101018,2026-05-31,23:52:35,Net Banking,Success,Mumbai,Bills,447.22,May,5,Sunday,1,0,≤ ₹500
+TXN101019,2026-01-13,06:05:37,UPI,Success,Hyderabad,Entertainment,94.62,Jan,1,Tuesday,1,0,≤ ₹500
+TXN101020,2026-02-05,04:17:53,Net Banking,Success,Nashik,Shopping,331.56,Feb,2,Thursday,1,0,≤ ₹500
+TXN101021,2026-01-18,22:30:37,Net Banking,Success,Nagpur,Healthcare,793.1,Jan,1,Sunday,1,0,₹501–₹2K
+TXN101022,2026-01-22,03:47:59,UPI,Failed,Aurangabad,Other,292.48,Jan,1,Thursday,0,1,≤ ₹500
+TXN101023,2026-09-22,00:36:49,Credit Card,Success,Hyderabad,Education,333.28,Sep,9,Tuesday,1,0,≤ ₹500
+TXN101024,2026-09-13,10:22:04,UPI,Failed,Nashik,Food,463.15,Sep,9,Sunday,0,1,≤ ₹500
+TXN101025,2026-09-07,09:36:23,UPI,Success,Hyderabad,Education,362.47,Sep,9,Monday,1,0,≤ ₹500
+TXN101026,2026-01-17,14:58:23,Debit Card,Success,Nagpur,Education,168.02,Jan,1,Saturday,1,0,≤ ₹500
+TXN101027,2026-01-24,21:28:00,UPI,Success,Nashik,Education,391.16,Jan,1,Saturday,1,0,≤ ₹500
+TXN101028,2026-03-27,22:53:10,Net Banking,Success,Thane,Bills,939.14,Mar,3,Friday,1,0,₹501–₹2K
+TXN101029,2026-06-21,06:46:45,Wallet,Success,Thane,Healthcare,165.09,Jun,6,Sunday,1,0,≤ ₹500
+TXN101030,2026-04-12,23:18:21,Net Banking,Success,Nagpur,Bills,293.45,Apr,4,Sunday,1,0,≤ ₹500
+TXN101031,2026-05-29,15:14:08,Debit Card,Success,Mumbai,Education,124.66,May,5,Friday,1,0,≤ ₹500
+TXN101032,2026-02-22,01:46:17,Debit Card,Success,Nagpur,Education,898.0,Feb,2,Sunday,1,0,₹501–₹2K
+TXN101033,2026-08-11,22:12:16,Wallet,Success,Kolhapur,Healthcare,372.97,Aug,8,Tuesday,1,0,≤ ₹500
+TXN101034,2026-04-06,03:20:10,UPI,Success,Pune,Entertainment,195.85,Apr,4,Monday,1,0,≤ ₹500
+TXN101035,2026-01-21,14:14:06,UPI,Success,Pune,Other,436.34,Jan,1,Wednesday,1,0,≤ ₹500
+TXN101036,2026-08-14,18:36:45,Debit Card,Success,Hyderabad,Entertainment,145.03,Aug,8,Friday,1,0,≤ ₹500
+TXN101037,2026-10-02,05:17:49,UPI,Success,Pune,Entertainment,167.59,Oct,10,Friday,1,0,≤ ₹500
+TXN101038,2026-01-05,06:39:29,UPI,Success,Aurangabad,Entertainment,116.62,Jan,1,Monday,1,0,≤ ₹500
+TXN101039,2026-05-13,11:56:36,UPI,Success,Delhi,Shopping,162.92,May,5,Wednesday,1,0,≤ ₹500
+TXN101040,2026-09-09,21:49:55,Debit Card,Success,Nagpur,Bills,1278.88,Sep,9,Wednesday,1,0,₹501–₹2K
+TXN101041,2026-08-03,05:56:50,UPI,Success,Aurangabad,Education,216.34,Aug,8,Monday,1,0,≤ ₹500
+TXN101042,2026-09-18,15:01:01,UPI,Success,Pune,Travel,599.62,Sep,9,Friday,1,0,₹501–₹2K
+TXN101043,2026-05-07,10:27:57,UPI,Success,Delhi,Healthcare,198.17,May,5,Thursday,1,0,≤ ₹500
+TXN101044,2026-04-24,02:13:04,UPI,Success,Thane,Food,769.39,Apr,4,Friday,1,0,₹501–₹2K
+TXN101045,2026-08-04,17:55:01,Net Banking,Success,Bengaluru,Shopping,168.65,Aug,8,Tuesday,1,0,≤ ₹500
+TXN101046,2026-02-16,19:42:24,UPI,Pending,Bengaluru,Healthcare,417.11,Feb,2,Monday,0,0,≤ ₹500
+TXN101047,2026-03-14,13:19:44,Credit Card,Failed,Nagpur,Entertainment,421.97,Mar,3,Saturday,0,1,≤ ₹500
+TXN101048,2026-07-02,04:33:04,Credit Card,Success,Pune,Bills,2917.94,Jul,7,Thursday,1,0,₹2K–₹5K
+TXN101049,2026-07-23,03:36:17,UPI,Success,Nagpur,Bills,689.43,Jul,7,Thursday,1,0,₹501–₹2K
+TXN101050,2026-02-06,10:29:15,Net Banking,Success,Mumbai,Education,243.72,Feb,2,Friday,1,0,≤ ₹500
+TXN101051,2026-06-04,12:28:23,Credit Card,Success,Kolhapur,Travel,722.19,Jun,6,Thursday,1,0,₹501–₹2K
+TXN101052,2026-04-21,13:03:59,Debit Card,Success,Mumbai,Shopping,2483.56,Apr,4,Tuesday,1,0,₹2K–₹5K
+TXN101053,2026-06-02,05:27:19,UPI,Success,Hyderabad,Education,100.97,Jun,6,Tuesday,1,0,≤ ₹500
+TXN101054,2026-10-19,12:20:12,UPI,Success,Thane,Entertainment,197.14,Oct,10,Monday,1,0,≤ ₹500
+TXN101055,2026-01-24,07:49:07,Wallet,Success,Nashik,Healthcare,329.85,Jan,1,Saturday,1,0,≤ ₹500
+TXN101056,2026-10-30,16:51:11,Net Banking,Failed,Hyderabad,Entertainment,283.01,Oct,10,Friday,0,1,≤ ₹500
+TXN101057,2026-05-17,19:45:07,Wallet,Failed,Delhi,Healthcare,304.04,May,5,Sunday,0,1,≤ ₹500
+TXN101058,2026-08-23,15:01:34,Wallet,Success,Aurangabad,Other,133.14,Aug,8,Sunday,1,0,≤ ₹500
+TXN101059,2026-05-10,00:50:25,UPI,Success,Mumbai,Shopping,1330.57,May,5,Sunday,1,0,₹501–₹2K
+TXN101060,2026-04-05,23:23:29,Net Banking,Success,Nagpur,Food,120.4,Apr,4,Sunday,1,0,≤ ₹500
+TXN101061,2026-08-23,00:24:49,UPI,Success,Kolhapur,Food,340.3,Aug,8,Sunday,1,0,≤ ₹500
+TXN101062,2026-07-29,23:56:34,Net Banking,Failed,Delhi,Other,981.38,Jul,7,Wednesday,0,1,₹501–₹2K
+TXN101063,2026-02-13,00:52:09,UPI,Success,Nashik,Healthcare,393.21,Feb,2,Friday,1,0,≤ ₹500
+TXN101064,2026-08-03,12:03:22,UPI,Success,Delhi,Shopping,175.48,Aug,8,Monday,1,0,≤ ₹500
+TXN101065,2026-08-17,02:21:18,Credit Card,Success,Nashik,Entertainment,128.2,Aug,8,Monday,1,0,≤ ₹500
+TXN101066,2026-04-28,02:44:49,Net Banking,Success,Nashik,Bills,331.79,Apr,4,Tuesday,1,0,≤ ₹500
+TXN101067,2026-10-09,16:32:18,Debit Card,Success,Aurangabad,Education,211.99,Oct,10,Friday,1,0,≤ ₹500
+TXN101068,2026-07-14,17:15:08,UPI,Success,Mumbai,Shopping,480.32,Jul,7,Tuesday,1,0,≤ ₹500
+TXN101069,2026-04-12,02:31:44,UPI,Failed,Aurangabad,Food,122.58,Apr,4,Sunday,0,1,≤ ₹500
+TXN101070,2026-01-04,23:51:25,Wallet,Success,Nagpur,Bills,805.19,Jan,1,Sunday,1,0,₹501–₹2K
+TXN101071,2026-07-25,07:13:05,UPI,Success,Nashik,Shopping,445.06,Jul,7,Saturday,1,0,≤ ₹500
+TXN101072,2026-03-05,07:44:41,UPI,Success,Delhi,Education,474.07,Mar,3,Thursday,1,0,≤ ₹500
+TXN101073,2026-08-18,07:44:12,Debit Card,Success,Nagpur,Food,1373.22,Aug,8,Tuesday,1,0,₹501–₹2K
+TXN101074,2026-06-09,11:53:52,UPI,Success,Thane,Shopping,278.07,Jun,6,Tuesday,1,0,≤ ₹500
+TXN101075,2026-05-22,04:17:49,Debit Card,Success,Delhi,Education,217.69,May,5,Friday,1,0,≤ ₹500
+TXN101076,2026-02-19,10:12:22,UPI,Success,Thane,Travel,253.26,Feb,2,Thursday,1,0,≤ ₹500
+TXN101077,2026-08-05,05:32:33,Net Banking,Success,Nashik,Healthcare,342.53,Aug,8,Wednesday,1,0,≤ ₹500
+TXN101078,2026-02-20,01:31:34,Wallet,Success,Bengaluru,Healthcare,373.41,Feb,2,Friday,1,0,≤ ₹500
+TXN101079,2026-05-07,08:24:39,Wallet,Success,Nashik,Other,199.12,May,5,Thursday,1,0,≤ ₹500
+TXN101080,2026-09-12,16:46:04,Debit Card,Failed,Nashik,Entertainment,72.27,Sep,9,Saturday,0,1,≤ ₹500
+TXN101081,2026-10-07,18:47:19,UPI,Failed,Bengaluru,Shopping,250.44,Oct,10,Wednesday,0,1,≤ ₹500
+TXN101082,2026-10-28,08:14:10,Credit Card,Success,Nagpur,Healthcare,547.77,Oct,10,Wednesday,1,0,₹501–₹2K
+TXN101083,2026-10-19,07:47:41,Net Banking,Success,Thane,Healthcare,452.97,Oct,10,Monday,1,0,≤ ₹500
+TXN101084,2026-06-19,18:13:04,Debit Card,Success,Pune,Education,1118.36,Jun,6,Friday,1,0,₹501–₹2K
+TXN101085,2026-03-02,16:24:31,Credit Card,Pending,Thane,Entertainment,2126.35,Mar,3,Monday,0,0,₹2K–₹5K
+TXN101086,2026-09-13,19:01:43,Credit Card,Success,Bengaluru,Shopping,769.26,Sep,9,Sunday,1,0,₹501–₹2K
+TXN101087,2026-09-01,21:20:56,Credit Card,Success,Delhi,Travel,1306.55,Sep,9,Tuesday,1,0,₹501–₹2K
+TXN101088,2026-10-29,19:57:17,Credit Card,Success,Kolhapur,Entertainment,774.14,Oct,10,Thursday,1,0,₹501–₹2K
+TXN101089,2026-07-17,22:26:00,UPI,Success,Bengaluru,Other,1725.75,Jul,7,Friday,1,0,₹501–₹2K
+TXN101090,2026-02-13,09:42:43,Debit Card,Success,Nashik,Food,1945.41,Feb,2,Friday,1,0,₹501–₹2K
+TXN101091,2026-06-02,09:06:00,Debit Card,Success,Nagpur,Travel,905.5,Jun,6,Tuesday,1,0,₹501–₹2K
+TXN101092,2026-05-17,07:38:03,UPI,Success,Pune,Bills,735.41,May,5,Sunday,1,0,₹501–₹2K
+TXN101093,2026-09-14,05:22:59,Net Banking,Success,Thane,Shopping,338.85,Sep,9,Monday,1,0,≤ ₹500
+TXN101094,2026-04-30,17:44:51,Debit Card,Success,Delhi,Food,389.5,Apr,4,Thursday,1,0,≤ ₹500
+TXN101095,2026-04-10,17:55:42,UPI,Success,Delhi,Education,302.73,Apr,4,Friday,1,0,≤ ₹500
+TXN101096,2026-01-25,19:31:50,Net Banking,Success,Delhi,Healthcare,684.07,Jan,1,Sunday,1,0,₹501–₹2K
+TXN101097,2026-09-11,04:06:04,Credit Card,Success,Mumbai,Education,218.7,Sep,9,Friday,1,0,≤ ₹500
+TXN101098,2026-08-18,11:28:05,Credit Card,Success,Thane,Bills,342.94,Aug,8,Tuesday,1,0,≤ ₹500
+TXN101099,2026-01-13,05:07:18,UPI,Success,Delhi,Entertainment,54.49,Jan,1,Tuesday,1,0,≤ ₹500
+TXN101100,2026-05-12,21:26:01,Net Banking,Success,Nashik,Healthcare,1745.2,May,5,Tuesday,1,0,₹501–₹2K
+TXN101101,2026-05-26,06:03:53,UPI,Pending,Aurangabad,Other,334.49,May,5,Tuesday,0,0,≤ ₹500
+TXN101102,2026-05-23,03:38:03,Debit Card,Success,Hyderabad,Bills,594.22,May,5,Saturday,1,0,₹501–₹2K
+TXN101103,2026-10-07,13:18:32,UPI,Success,Aurangabad,Shopping,1392.87,Oct,10,Wednesday,1,0,₹501–₹2K
+TXN101104,2026-02-15,21:12:51,Credit Card,Success,Delhi,Travel,520.74,Feb,2,Sunday,1,0,₹501–₹2K
+TXN101105,2026-04-04,21:01:44,Credit Card,Success,Kolhapur,Education,1377.04,Apr,4,Saturday,1,0,₹501–₹2K
+TXN101106,2026-02-25,02:53:14,Debit Card,Success,Thane,Travel,140.4,Feb,2,Wednesday,1,0,≤ ₹500
+TXN101107,2026-03-16,07:50:28,Debit Card,Success,Thane,Entertainment,3095.7,Mar,3,Monday,1,0,₹2K–₹5K
+TXN101108,2026-10-03,03:48:32,Net Banking,Success,Thane,Food,1016.42,Oct,10,Saturday,1,0,₹501–₹2K
+TXN101109,2026-10-13,07:03:46,Credit Card,Success,Delhi,Education,481.94,Oct,10,Tuesday,1,0,≤ ₹500
+TXN101110,2026-01-14,12:20:25,UPI,Success,Hyderabad,Travel,1354.68,Jan,1,Wednesday,1,0,₹501–₹2K
+TXN101111,2026-07-12,06:58:17,Wallet,Success,Nashik,Shopping,149.4,Jul,7,Sunday,1,0,≤ ₹500
+TXN101112,2026-03-12,01:34:47,Credit Card,Success,Hyderabad,Healthcare,315.66,Mar,3,Thursday,1,0,≤ ₹500
+TXN101113,2026-02-28,12:07:53,Wallet,Success,Thane,Entertainment,1376.93,Feb,2,Saturday,1,0,₹501–₹2K
+TXN101114,2026-03-30,01:08:29,Wallet,Failed,Kolhapur,Education,82.52,Mar,3,Monday,0,1,≤ ₹500
+TXN101115,2026-03-01,05:15:01,Wallet,Success,Nagpur,Food,649.62,Mar,3,Sunday,1,0,₹501–₹2K
+TXN101116,2026-05-30,00:58:30,Credit Card,Success,Aurangabad,Food,634.19,May,5,Saturday,1,0,₹501–₹2K
+TXN101117,2026-10-30,02:10:53,Debit Card,Success,Thane,Travel,2151.33,Oct,10,Friday,1,0,₹2K–₹5K
+TXN101118,2026-06-28,10:54:59,UPI,Success,Nagpur,Healthcare,105.06,Jun,6,Sunday,1,0,≤ ₹500
+TXN101119,2026-08-08,20:40:24,Debit Card,Success,Nashik,Bills,1584.76,Aug,8,Saturday,1,0,₹501–₹2K
+TXN101120,2026-05-30,18:55:09,Net Banking,Success,Bengaluru,Bills,250.75,May,5,Saturday,1,0,≤ ₹500
+TXN101121,2026-01-05,02:49:34,Debit Card,Success,Aurangabad,Entertainment,275.9,Jan,1,Monday,1,0,≤ ₹500
+TXN101122,2026-01-26,00:19:49,Net Banking,Success,Thane,Food,142.78,Jan,1,Monday,1,0,≤ ₹500
+TXN101123,2026-03-23,08:49:56,UPI,Success,Pune,Food,160.02,Mar,3,Monday,1,0,≤ ₹500
+TXN101124,2026-03-16,15:10:03,UPI,Success,Pune,Shopping,568.5,Mar,3,Monday,1,0,₹501–₹2K
+TXN101125,2026-09-13,17:17:17,Debit Card,Success,Bengaluru,Other,156.73,Sep,9,Sunday,1,0,≤ ₹500
+TXN101126,2026-09-14,19:12:28,UPI,Success,Mumbai,Travel,756.91,Sep,9,Monday,1,0,₹501–₹2K
+TXN101127,2026-09-17,08:07:05,UPI,Success,Delhi,Shopping,229.63,Sep,9,Thursday,1,0,≤ ₹500
+TXN101128,2026-07-13,04:05:53,UPI,Success,Hyderabad,Bills,143.87,Jul,7,Monday,1,0,≤ ₹500
+TXN101129,2026-06-19,00:11:06,Net Banking,Success,Aurangabad,Other,257.59,Jun,6,Friday,1,0,≤ ₹500
+TXN101130,2026-07-17,03:07:39,Debit Card,Success,Bengaluru,Healthcare,537.11,Jul,7,Friday,1,0,₹501–₹2K
+TXN101131,2026-05-04,01:22:55,UPI,Success,Aurangabad,Shopping,318.7,May,5,Monday,1,0,≤ ₹500
+TXN101132,2026-07-23,20:04:41,UPI,Failed,Hyderabad,Shopping,415.33,Jul,7,Thursday,0,1,≤ ₹500
+TXN101133,2026-08-30,06:03:45,UPI,Success,Nashik,Food,729.07,Aug,8,Sunday,1,0,₹501–₹2K
+TXN101134,2026-08-20,19:59:15,UPI,Success,Aurangabad,Entertainment,1012.38,Aug,8,Thursday,1,0,₹501–₹2K
+TXN101135,2026-07-06,13:05:49,Credit Card,Failed,Nagpur,Shopping,309.95,Jul,7,Monday,0,1,≤ ₹500
+TXN101136,2026-01-18,12:04:25,Net Banking,Success,Delhi,Bills,166.07,Jan,1,Sunday,1,0,≤ ₹500
+TXN101137,2026-08-09,10:01:03,UPI,Success,Pune,Bills,430.39,Aug,8,Sunday,1,0,≤ ₹500
+TXN101138,2026-04-22,19:07:21,Debit Card,Success,Bengaluru,Education,601.88,Apr,4,Wednesday,1,0,₹501–₹2K
+TXN101139,2026-08-15,01:31:20,UPI,Success,Pune,Education,116.56,Aug,8,Saturday,1,0,≤ ₹500
+TXN101140,2026-06-14,02:49:31,UPI,Success,Nagpur,Entertainment,189.23,Jun,6,Sunday,1,0,≤ ₹500
+TXN101141,2026-09-25,10:44:15,Net Banking,Success,Kolhapur,Bills,218.92,Sep,9,Friday,1,0,≤ ₹500
+TXN101142,2026-04-13,09:34:27,Debit Card,Success,Mumbai,Travel,338.1,Apr,4,Monday,1,0,≤ ₹500
+TXN101143,2026-10-11,13:05:25,Net Banking,Success,Aurangabad,Travel,211.27,Oct,10,Sunday,1,0,≤ ₹500
+TXN101144,2026-09-14,17:46:19,UPI,Success,Hyderabad,Food,735.82,Sep,9,Monday,1,0,₹501–₹2K
+TXN101145,2026-04-11,14:02:41,UPI,Success,Bengaluru,Healthcare,103.09,Apr,4,Saturday,1,0,≤ ₹500
+TXN101146,2026-05-27,06:37:18,UPI,Success,Pune,Education,105.34,May,5,Wednesday,1,0,≤ ₹500
+TXN101147,2026-06-11,07:24:45,Debit Card,Success,Kolhapur,Travel,303.75,Jun,6,Thursday,1,0,≤ ₹500
+TXN101148,2026-08-22,18:52:15,Wallet,Success,Kolhapur,Other,347.48,Aug,8,Saturday,1,0,≤ ₹500
+TXN101149,2026-07-29,04:18:51,UPI,Success,Pune,Shopping,117.16,Jul,7,Wednesday,1,0,≤ ₹500
+TXN101150,2026-09-17,12:38:21,Net Banking,Success,Thane,Other,240.87,Sep,9,Thursday,1,0,≤ ₹500
+TXN101151,2026-04-23,12:26:02,Net Banking,Success,Kolhapur,Healthcare,286.89,Apr,4,Thursday,1,0,≤ ₹500
+TXN101152,2026-06-03,18:31:08,Debit Card,Success,Thane,Shopping,288.79,Jun,6,Wednesday,1,0,≤ ₹500
+TXN101153,2026-05-11,17:56:48,UPI,Success,Nashik,Healthcare,459.02,May,5,Monday,1,0,≤ ₹500
+TXN101154,2026-10-04,11:42:52,Debit Card,Success,Nashik,Entertainment,229.9,Oct,10,Sunday,1,0,≤ ₹500
+TXN101155,2026-04-03,07:24:12,UPI,Failed,Delhi,Bills,1416.81,Apr,4,Friday,0,1,₹501–₹2K
+TXN101156,2026-06-28,08:26:36,Net Banking,Success,Delhi,Bills,610.92,Jun,6,Sunday,1,0,₹501–₹2K
+TXN101157,2026-02-06,09:42:34,Debit Card,Success,Mumbai,Entertainment,203.15,Feb,2,Friday,1,0,≤ ₹500
+TXN101158,2026-09-16,05:20:08,Wallet,Pending,Nashik,Shopping,437.18,Sep,9,Wednesday,0,0,≤ ₹500
+TXN101159,2026-04-27,15:10:27,Debit Card,Success,Kolhapur,Food,448.28,Apr,4,Monday,1,0,≤ ₹500
+TXN101160,2026-04-14,05:28:41,Debit Card,Failed,Bengaluru,Healthcare,1132.87,Apr,4,Tuesday,0,1,₹501–₹2K
+TXN101161,2026-06-27,15:04:58,Credit Card,Success,Nashik,Other,242.18,Jun,6,Saturday,1,0,≤ ₹500
+TXN101162,2026-06-01,18:10:50,Debit Card,Success,Nashik,Education,774.52,Jun,6,Monday,1,0,₹501–₹2K
+TXN101163,2026-09-15,23:25:05,Wallet,Failed,Bengaluru,Shopping,418.04,Sep,9,Tuesday,0,1,≤ ₹500
+TXN101164,2026-06-11,02:47:14,UPI,Success,Thane,Education,1433.44,Jun,6,Thursday,1,0,₹501–₹2K
+TXN101165,2026-06-07,18:46:26,Wallet,Success,Hyderabad,Bills,1208.65,Jun,6,Sunday,1,0,₹501–₹2K
+TXN101166,2026-02-01,02:15:09,Net Banking,Success,Delhi,Entertainment,476.96,Feb,2,Sunday,1,0,≤ ₹500
+TXN101167,2026-01-07,08:25:34,Net Banking,Success,Hyderabad,Education,322.81,Jan,1,Wednesday,1,0,≤ ₹500
+TXN101168,2026-05-02,04:09:00,Debit Card,Success,Mumbai,Bills,620.56,May,5,Saturday,1,0,₹501–₹2K
+TXN101169,2026-10-31,03:45:06,Net Banking,Success,Nashik,Education,346.06,Oct,10,Saturday,1,0,≤ ₹500
+TXN101170,2026-10-06,04:14:02,UPI,Success,Nashik,Healthcare,1682.88,Oct,10,Tuesday,1,0,₹501–₹2K
+TXN101171,2026-07-11,01:47:17,Net Banking,Success,Pune,Healthcare,431.26,Jul,7,Saturday,1,0,≤ ₹500
+TXN101172,2026-07-11,19:50:45,UPI,Success,Delhi,Bills,285.77,Jul,7,Saturday,1,0,≤ ₹500
+TXN101173,2026-04-30,01:41:10,UPI,Success,Thane,Education,272.96,Apr,4,Thursday,1,0,≤ ₹500
+TXN101174,2026-02-23,09:19:59,UPI,Success,Pune,Food,143.87,Feb,2,Monday,1,0,≤ ₹500
+TXN101175,2026-01-03,16:57:16,UPI,Success,Mumbai,Travel,647.47,Jan,1,Saturday,1,0,₹501–₹2K
+TXN101176,2026-04-14,23:41:02,UPI,Success,Mumbai,Travel,200.94,Apr,4,Tuesday,1,0,≤ ₹500
+TXN101177,2026-04-07,20:38:20,Net Banking,Success,Aurangabad,Education,1026.0,Apr,4,Tuesday,1,0,₹501–₹2K
+TXN101178,2026-02-28,03:51:44,UPI,Success,Aurangabad,Other,134.42,Feb,2,Saturday,1,0,≤ ₹500
+TXN101179,2026-03-20,23:52:06,Credit Card,Success,Nashik,Other,449.51,Mar,3,Friday,1,0,≤ ₹500
+TXN101180,2026-01-08,15:04:04,UPI,Success,Hyderabad,Travel,1072.44,Jan,1,Thursday,1,0,₹501–₹2K
+TXN101181,2026-07-04,04:52:50,Net Banking,Success,Nashik,Healthcare,64.75,Jul,7,Saturday,1,0,≤ ₹500
+TXN101182,2026-10-09,10:45:35,Net Banking,Pending,Kolhapur,Food,2242.9,Oct,10,Friday,0,0,₹2K–₹5K
+TXN101183,2026-07-30,22:12:20,UPI,Failed,Aurangabad,Travel,281.04,Jul,7,Thursday,0,1,≤ ₹500
+TXN101184,2026-05-17,09:18:45,Credit Card,Success,Nagpur,Healthcare,454.83,May,5,Sunday,1,0,≤ ₹500
+TXN101185,2026-05-08,04:45:50,Wallet,Pending,Bengaluru,Healthcare,655.72,May,5,Friday,0,0,₹501–₹2K
+TXN101186,2026-04-04,21:12:21,Net Banking,Success,Hyderabad,Other,747.86,Apr,4,Saturday,1,0,₹501–₹2K
+TXN101187,2026-02-13,22:27:33,UPI,Success,Pune,Travel,509.18,Feb,2,Friday,1,0,₹501–₹2K
+TXN101188,2026-07-01,23:41:00,Debit Card,Success,Aurangabad,Other,941.78,Jul,7,Wednesday,1,0,₹501–₹2K
+TXN101189,2026-06-22,22:39:18,Net Banking,Success,Mumbai,Other,627.17,Jun,6,Monday,1,0,₹501–₹2K
+TXN101190,2026-01-03,20:54:35,UPI,Success,Aurangabad,Education,1802.17,Jan,1,Saturday,1,0,₹501–₹2K
+TXN101191,2026-05-07,10:06:11,Net Banking,Success,Thane,Food,628.9,May,5,Thursday,1,0,₹501–₹2K
+TXN101192,2026-03-26,04:17:59,UPI,Success,Aurangabad,Travel,2142.95,Mar,3,Thursday,1,0,₹2K–₹5K
+TXN101193,2026-02-21,14:59:58,Net Banking,Success,Nagpur,Entertainment,867.76,Feb,2,Saturday,1,0,₹501–₹2K
+TXN101194,2026-08-02,05:34:15,UPI,Failed,Nagpur,Education,86.93,Aug,8,Sunday,0,1,≤ ₹500
+TXN101195,2026-06-09,11:14:23,UPI,Success,Nashik,Other,3712.41,Jun,6,Tuesday,1,0,₹2K–₹5K
+TXN101196,2026-07-12,15:17:11,Wallet,Success,Nagpur,Entertainment,247.6,Jul,7,Sunday,1,0,≤ ₹500
+TXN101197,2026-08-05,22:20:30,Net Banking,Success,Nagpur,Food,1438.29,Aug,8,Wednesday,1,0,₹501–₹2K
+TXN101198,2026-10-26,06:33:07,Net Banking,Success,Thane,Entertainment,412.72,Oct,10,Monday,1,0,≤ ₹500
+TXN101199,2026-09-02,06:17:23,Wallet,Success,Pune,Bills,994.19,Sep,9,Wednesday,1,0,₹501–₹2K
+TXN101200,2026-07-08,17:37:33,UPI,Success,Pune,Entertainment,224.71,Jul,7,Wednesday,1,0,≤ ₹500
