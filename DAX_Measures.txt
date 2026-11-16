@@ -1,0 +1,39 @@
+PayInsight – Suggested Power BI Measures
+
+Total Transactions =
+COUNTROWS(Transactions)
+
+Total Transaction Value =
+SUM(Transactions[Amount_INR])
+
+Average Transaction Value =
+AVERAGE(Transactions[Amount_INR])
+
+Successful Transactions =
+CALCULATE(
+    [Total Transactions],
+    Transactions[Status] = "Success"
+)
+
+Failed Transactions =
+CALCULATE(
+    [Total Transactions],
+    Transactions[Status] = "Failed"
+)
+
+Success Rate =
+DIVIDE(
+    [Successful Transactions],
+    [Total Transactions],
+    0
+)
+
+Failed Rate =
+DIVIDE(
+    [Failed Transactions],
+    [Total Transactions],
+    0
+)
+
+Note:
+Create a proper Date table in Power BI for time-intelligence measures if the final dataset requires them.
