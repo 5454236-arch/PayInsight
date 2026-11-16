@@ -17,7 +17,7 @@ st.markdown("""
 @st.cache_data
 def load_data(uploaded_file):
     if uploaded_file is None:
-        path = os.path.join(os.path.dirname(__file__), "data", "sample_transactions.csv")
+        path = os.path.join(os.path.dirname(__file__), "sample_transactions.csv")
         return pd.read_csv(path)
     return pd.read_csv(uploaded_file)
 
